@@ -1,4 +1,4 @@
-name: Build project
+name: Build project - WebGL
 
 on: [push, pull_request]
 

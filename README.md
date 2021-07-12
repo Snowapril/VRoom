@@ -4,9 +4,12 @@
 
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](./LICENSE)
 
-|           |           |           |
-|-----------|-----------|-----------|
-|           |           |           |
+|     Target     |   Status  |
+|----------------|-----------|
+| Test(EditMode) |           |
+| Test(PlayMode) |           |
+| Build(Android) |           |
+| Build(WebGL)   |           |
 
 VRoom is virtual conference platform for VR and Desktop. 
 You can freely create virtual conference room and share to other people.
