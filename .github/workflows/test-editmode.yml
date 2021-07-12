@@ -1,4 +1,4 @@
-name: Test project
+name: Test project - EditMode
 
 on: [push, pull_request]
 
