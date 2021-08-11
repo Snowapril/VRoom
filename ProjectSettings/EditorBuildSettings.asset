@@ -4,17 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/3rd-Party/WebXR Exporter/Samples/WebXR Interactions/0.12.0-preview/Sample
-      Scene/Scenes/Desert.unity
-    guid: 85380d4847db7b74a850284461349c36
+  m_Scenes: []
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 667ff0743a9961348879607300482ec2,
       type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba,
       type: 2}
-    WebXR.Settings: {fileID: 11400000, guid: 21ab68880028f7a46b13963e0006c53e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a749c8fea8b60db4693d48fa585b4da6,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f50fa622013b32b429337b612c723ab1,
