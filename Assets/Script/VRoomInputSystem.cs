@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine;
 using WebXR;
 
@@ -24,6 +25,16 @@ public class VRoomInputSystem : MonoBehaviour
         Debug.Log("Left Hand Controller : " + leftHandController.name);
     }
 
+    //Function For Test
+    public static void ChangIsVR()
+    {
+        isVR = !isVR;
+    }
+    
+    public static void SetIsVR(bool _isVR)
+    {
+        isVR = _isVR;
+    }
     
     //Return (Vector2) Desktop & VR Joystick Axis or Arrow keys Input
     public static Vector2 GetAxis2D(WebXRControllerHand handType = WebXRControllerHand.RIGHT)
