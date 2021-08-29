@@ -207,8 +207,10 @@ public class VRoomInputSystem : MonoBehaviour
                     switch (handType)
                     {
                         case WebXRControllerHand.RIGHT:
+                            return rightHandController.GetButton(buttonType);
                             break;
                         case WebXRControllerHand.LEFT:
+                            return leftHandController.GetButton(buttonType);
                             break;
                         default:
                             return false;
