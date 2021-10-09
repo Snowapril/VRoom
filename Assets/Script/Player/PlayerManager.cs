@@ -7,7 +7,7 @@ using UnityEngine;
 
 //Must have Components to use this script
 [RequireComponent (typeof(CharacterController))]
-[RequireComponent (typeof(Rigidbody))]
+//[RequireComponent (typeof(Rigidbody))]
 [RequireComponent (typeof(PlayerMoveManager))]
 [RequireComponent (typeof(PlayerInputManager))]
 public class PlayerManager : MonoBehaviour

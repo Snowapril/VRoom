@@ -18,14 +18,13 @@ public class PlayerInputManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        player = transform.GetComponent<PlayerManager>();
     }
 
     // Update is called once per frame
     void Update()
     {
         player.AddPlayerMoveVector(GetPlayerMoveInput());
-        
     }
 
     private Vector3 GetPlayerMoveInput()

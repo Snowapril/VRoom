@@ -4,18 +4,19 @@ using UnityEngine;
 
 
 [RequireComponent (typeof(PlayerManager))]
+[RequireComponent (typeof(CharacterController))]
 public class PlayerMoveManager : MonoBehaviour
 {
     #region Serialize Private Value
     [SerializeField] private float playerMoveSpeed = 1f;
     [SerializeField] private float playerGravity = -9.8f;
-    [SerializeField] private LayerMask groundLayer = LayerMask.GetMask("Ground");
+    [SerializeField] private LayerMask groundLayer;
     #endregion
     
     #region Private Value
     
     private CharacterController characterController;
-    private float additionalPlayerHeight = 1f;
+    private float additionalPlayerHeight = 0f;
     private float currentFallingSpeed;
     private PlayerManager player;
     private Transform playerCamera;
@@ -36,6 +37,7 @@ public class PlayerMoveManager : MonoBehaviour
     {
         player = transform.GetComponent<PlayerManager>();
         playerCamera = player.GetPlayerCamera();
+        characterController = transform.GetComponent<CharacterController>();
     }
 
     // Update is called once per frame
