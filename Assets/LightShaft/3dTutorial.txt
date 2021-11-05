@@ -1,0 +1,4 @@
+3D have diferent kind of videos side-by-side and Over-Under.
+If you video is not setup correctly first of all go to player settings>XR Settings>Enable Virtual reallity support
+Then go to Lightshaft>Resources>Material in the material PanoramicSkybox3DOverUnder set Over-Under, in the material PanoramicSkybox3Dside set
+sidebyside. Then set the config that you need in the youtubeplayer script.
