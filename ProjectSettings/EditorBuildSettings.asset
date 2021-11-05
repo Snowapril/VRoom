@@ -6,9 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/3rd-Party/WebXR Exporter/Samples/WebXR Interactions/0.12.0-preview/Sample
-      Scene/Scenes/Desert.unity
-    guid: 85380d4847db7b74a850284461349c36
+    path: Assets/Scenes/WebXRTestScene.unity
+    guid: eff0443fe161e864e94df50203be290f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 667ff0743a9961348879607300482ec2,
       type: 2}
