@@ -1,9 +1,5 @@
 var searchData=
 [
-  ['getaxis2d',['GetAxis2D',['../class_v_room_input_system.html#af9146d42c30f41cf71b74301ea91e116',1,'VRoomInputSystem']]],
-  ['getbutton',['GetButton',['../class_v_room_input_system.html#af3fc5a1d2cad2972c93a3c08e6e62fd1',1,'VRoomInputSystem']]],
-  ['getdesktopaxis2d',['GetDesktopAxis2D',['../class_v_room_input_system.html#a473ce5a97a9eb5bf3bff4b1ded7e1e72',1,'VRoomInputSystem']]],
-  ['getdesktopbutton',['GetDesktopButton',['../class_v_room_input_system.html#a8844058fe681a49549351910e7b3c0cd',1,'VRoomInputSystem']]],
-  ['getvraxis2d',['GetVRAxis2D',['../class_v_room_input_system.html#aed3228ff881575fb89dec5f200bc33db',1,'VRoomInputSystem']]],
-  ['getvrbutton',['GetVRButton',['../class_v_room_input_system.html#ae18133acb180604d8429a131d84273ff',1,'VRoomInputSystem']]]
+  ['backtohub',['BackToHub',['../class_photon_1_1_pun_1_1_demo_1_1_hub_1_1_to_demo_hub_button.html#a83cf2b61cc387ebc9fc311480833e857',1,'Photon::Pun::Demo::Hub::ToDemoHubButton']]],
+  ['beginturn',['BeginTurn',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_pun_turn_manager.html#a4c96ab5e25fd5b2bb3ed992d99f5e19b',1,'Photon::Pun::UtilityScripts::PunTurnManager']]]
 ];

@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['name',['Name',['../class_photon_1_1_realtime_1_1_friend_info.html#aed0e7b1ee37639406fa4f5af89a40da4',1,'Photon.Realtime.FriendInfo.Name()'],['../class_photon_1_1_realtime_1_1_room.html#afcfe0384320a9c317bbd1c23ee733bc1',1,'Photon.Realtime.Room.Name()'],['../class_photon_1_1_realtime_1_1_room_info.html#aecbf5c703fccd08e084381c922f67788',1,'Photon.Realtime.RoomInfo.Name()'],['../class_photon_1_1_realtime_1_1_web_rpc_response.html#ae369e564fdc6aad38be27eec03c172a5',1,'Photon.Realtime.WebRpcResponse.Name()']]],
+  ['nameserveraddress',['NameServerAddress',['../class_photon_1_1_chat_1_1_chat_client.html#acd09983e6a7c5f77386068daea5c1e5e',1,'Photon.Chat.ChatClient.NameServerAddress()'],['../class_photon_1_1_chat_1_1_chat_peer.html#a541b0c29815c07c87c49e62827c5b33a',1,'Photon.Chat.ChatPeer.NameServerAddress()'],['../class_photon_1_1_realtime_1_1_load_balancing_client.html#a74e14a2c1ac523134d9e7fbb43bf4d6b',1,'Photon.Realtime.LoadBalancingClient.NameServerAddress()']]],
+  ['nickname',['NickName',['../class_photon_1_1_realtime_1_1_load_balancing_client.html#ad439b4aa3b30db97be26fa5c27c1dff8',1,'Photon.Realtime.LoadBalancingClient.NickName()'],['../class_photon_1_1_realtime_1_1_player.html#adf7350041e899cf8138dc2c31e2bbb62',1,'Photon.Realtime.Player.NickName()']]]
+];

@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['usealternativeudpports',['UseAlternativeUdpPorts',['../class_photon_1_1_realtime_1_1_load_balancing_client.html#aadbe14d23b56f7493386842a0e8b41e0',1,'Photon::Realtime::LoadBalancingClient']]],
+  ['usebackgroundworkerforsending',['UseBackgroundWorkerForSending',['../class_photon_1_1_chat_1_1_chat_client.html#a9a625d156affdbf51778ebf60a302df6',1,'Photon::Chat::ChatClient']]],
+  ['userid',['UserId',['../class_photon_1_1_chat_1_1_chat_client.html#a77852cce3db18c04c675e83d62056b4f',1,'Photon.Chat.ChatClient.UserId()'],['../class_photon_1_1_chat_1_1_authentication_values.html#ac91cec9e6295f82a23df0e592fa23953',1,'Photon.Chat.AuthenticationValues.UserId()'],['../class_photon_1_1_realtime_1_1_friend_info.html#aaf3fea0c569d2d5cf923ff750d1c836e',1,'Photon.Realtime.FriendInfo.UserId()'],['../class_photon_1_1_realtime_1_1_load_balancing_client.html#a3fdc963fa3c095fc3a9bb106673ac664',1,'Photon.Realtime.LoadBalancingClient.UserId()'],['../class_photon_1_1_realtime_1_1_authentication_values.html#a46b9aa634618f6634c8a567cb6dd987c',1,'Photon.Realtime.AuthenticationValues.UserId()'],['../class_photon_1_1_realtime_1_1_player.html#ac012a3903d9dfd3e36b9a3d5bdf0d5e1',1,'Photon.Realtime.Player.UserId()'],['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_pun_cockpit.html#a498f6fc2456cdd83dd6ef75d47e0ae19',1,'Photon.Pun.Demo.Cockpit.PunCockpit.UserId()']]],
+  ['username',['UserName',['../class_photon_1_1_chat_1_1_demo_1_1_chat_gui.html#aa603f0ef34ff7b4ac6ca346e89034735',1,'Photon::Chat::Demo::ChatGui']]]
+];
