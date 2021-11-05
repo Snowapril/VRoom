@@ -1,0 +1,2 @@
+If you are getting errors related to a duplicated newtonsoft lib, it is because you already have a newtonsoft/Json reference in your project. You can remove our built in version.
+Delete the folder 'UnityPackages' inside the folder Ligthshaft/Scripts.
