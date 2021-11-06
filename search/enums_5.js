@@ -1,5 +1,9 @@
 var searchData=
 [
-  ['instantiateoption',['InstantiateOption',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_on_click_instantiate.html#a5e9462ad2acb413941ca4901644303f9',1,'Photon::Pun::UtilityScripts::OnClickInstantiate']]],
-  ['interpolateoptions',['InterpolateOptions',['../class_photon_1_1_pun_1_1_photon_transform_view_position_model.html#a4b858c5b4636d9f08e2d4d7d40521fd8',1,'Photon.Pun.PhotonTransformViewPositionModel.InterpolateOptions()'],['../class_photon_1_1_pun_1_1_photon_transform_view_rotation_model.html#a7983df8b8fd6a836d50d850f6363304f',1,'Photon.Pun.PhotonTransformViewRotationModel.InterpolateOptions()'],['../class_photon_1_1_pun_1_1_photon_transform_view_scale_model.html#a2e98fbeaddf9926ab8d6d176bd9574a3',1,'Photon.Pun.PhotonTransformViewScaleModel.InterpolateOptions()']]]
+  ['facetype',['FaceType',['../namespace_oculus_1_1_spatializer_1_1_propagation.html#aa261ee4e2154378b0a7f96985d6476af',1,'Oculus::Spatializer::Propagation']]],
+  ['fade',['Fade',['../class_o_v_r_1_1_audio_manager.html#aeb0b3dae475fd2c49c301a0480354a80',1,'OVR.AudioManager.Fade()'],['../namespace_o_v_r.html#acea86352e3f04b3b87316fe700c4fef7',1,'OVR.Fade()']]],
+  ['fadestate',['FadeState',['../class_o_v_r_1_1_sound_emitter.html#a7addbb214ce195c9b68e77a24677a825',1,'OVR::SoundEmitter']]],
+  ['fallofftype',['FalloffType',['../class_o_v_r_vignette.html#ab934110d4b75502b3f5dbdb6b011ceda',1,'OVRVignette']]],
+  ['fixedfoveatedrenderinglevel',['FixedFoveatedRenderingLevel',['../class_o_v_r_manager.html#a9b4498417a81a43d67cfcd6f7d5d7793',1,'OVRManager']]],
+  ['freqhint',['FreqHint',['../namespace_o_v_r.html#af893c57545109b121eea6d690d45db55',1,'OVR']]]
 ];

@@ -1,6 +1,20 @@
 var searchData=
 [
+  ['quad',['Quad',['../class_movie_player_sample.html#a664d961c5d540aa1d5744b77db6e263cae9017664588010860a92ceb5f8fcb824',1,'MoviePlayerSample.Quad()'],['../class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939ae9017664588010860a92ceb5f8fcb824',1,'OVROverlay.Quad()']]],
+  ['quadratic',['Quadratic',['../class_o_v_r_vignette.html#ab934110d4b75502b3f5dbdb6b011cedaa8b2972385ed28d0e199ae2985d6fea4c',1,'OVRVignette']]],
+  ['quads',['QUADS',['../namespace_oculus_1_1_spatializer_1_1_propagation.html#aa261ee4e2154378b0a7f96985d6476afa23d5348dd7bef544d6341bec3480287f',1,'Oculus::Spatializer::Propagation']]],
+  ['quality',['quality',['../class_o_n_s_p_propagation_settings.html#ab9836c980ec59a2fb31114a3976d9a0e',1,'ONSPPropagationSettings']]],
+  ['quaternioncontainertype',['QuaternionContainerType',['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_node.html#a7508d799390fc1f56c069bbe89ba61f5',1,'OVRSimpleJSON::JSONNode']]],
+  ['quatf',['Quatf',['../struct_o_v_r_plugin_1_1_quatf.html',1,'OVRPlugin']]],
+  ['quest',['Quest',['../class_assets_1_1_oculus_1_1_v_r_1_1_editor_1_1_o_v_r_platform_tool.html#a0bf816cb73c6d68f021434da77e302caa07bf513a88c3df282a30cb374f8a933d',1,'Assets.Oculus.VR.Editor.OVRPlatformTool.Quest()'],['../class_o_v_r_project_config.html#a78d67866cdbaaaf474daa3432e1aab40a07bf513a88c3df282a30cb374f8a933d',1,'OVRProjectConfig.Quest()'],['../class_o_v_r_manager.html#a674e7b22e74089919f092eff3f360d29a07bf513a88c3df282a30cb374f8a933d',1,'OVRManager.Quest()'],['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#a9971dc680103e87f677456d076b5c368a07bf513a88c3df282a30cb374f8a933d',1,'Quest():&#160;OvrAvatarSDKCAPI.cs']]],
+  ['quest2',['Quest2',['../class_o_v_r_project_config.html#a78d67866cdbaaaf474daa3432e1aab40acfeb379b33de1ccb7c88fc53580ab01e',1,'OVRProjectConfig']]],
+  ['queue',['Queue',['../class_o_v_r_haptics_1_1_o_v_r_haptics_channel.html#af6f39a607cda10c950ebe2a3754b843f',1,'OVRHaptics::OVRHapticsChannel']]],
   ['queuedcomingfromfrontend',['QueuedComingFromFrontEnd',['../namespace_photon_1_1_chat.html#afc6e9ce1b2729658dbf7d583305c6c81ad61e8ad0770b4d06dc1716dfce52751e',1,'Photon::Chat']]],
+  ['queueformatch',['QueueForMatch',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_matchmaking_manager.html#a76622682e20a7ba7fb551599ec40b922',1,'Oculus::Platform::Samples::VrHoops::MatchmakingManager']]],
+  ['queuepacket',['QueuePacket',['../class_ovr_avatar_remote_driver.html#a1dab9d7aef005ffacaefa99070797ce7',1,'OvrAvatarRemoteDriver']]],
   ['queuestate',['QueueState',['../class_photon_1_1_realtime_1_1_event_code.html#a9b8166cb4d273ef3a65ee2641e663780',1,'Photon::Realtime::EventCode']]],
-  ['quitapplication',['QuitApplication',['../class_photon_1_1_pun_1_1_demo_1_1_pun_basics_1_1_game_manager.html#a31f11da1dda44c83109f85f8ae250491',1,'Photon::Pun::Demo::PunBasics::GameManager']]]
+  ['quitapplication',['QuitApplication',['../class_photon_1_1_pun_1_1_demo_1_1_pun_basics_1_1_game_manager.html#a31f11da1dda44c83109f85f8ae250491',1,'Photon::Pun::Demo::PunBasics::GameManager']]],
+  ['quitbuttonpressed',['QuitButtonPressed',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_controller.html#afb0969047c423b847543bc0bb0c4fcb2',1,'Oculus.Platform.Samples.VrBoardGame.GameController.QuitButtonPressed()'],['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_platform_manager.html#af08f0bea913117d5163a858c7b787cc6',1,'Oculus.Platform.Samples.VrHoops.PlatformManager.QuitButtonPressed()']]],
+  ['quitkey',['quitKey',['../class_o_v_r_scene_sample_controller.html#aa25feb62b50537a6273e05995cafa1c8',1,'OVRSceneSampleController']]],
+  ['quitonclick',['QuitOnClick',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_platform_manager.html#aa8a2c213292d3f2a1d7d51408832b180',1,'Oculus::Platform::Samples::VrVoiceChat::PlatformManager']]]
 ];

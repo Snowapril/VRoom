@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['oncountdowntimerhasexpired',['OnCountdownTimerHasExpired',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_countdown_timer.html#a872822dedbe8007e7c978868b3f5b30d',1,'Photon::Pun::UtilityScripts::CountdownTimer']]],
-  ['onplayernumberingchanged',['OnPlayerNumberingChanged',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_player_numbering.html#adf8ebd8f1bfd01904ee68430bdc108b8',1,'Photon::Pun::UtilityScripts::PlayerNumbering']]],
-  ['opresponsereceived',['OpResponseReceived',['../class_photon_1_1_realtime_1_1_load_balancing_client.html#aae9522748ec91353feab31c31863da50',1,'Photon::Realtime::LoadBalancingClient']]]
+  ['deactivated',['Deactivated',['../class_teleport_destination.html#afd3b738fae1d47bd937099e0c79b57e1',1,'TeleportDestination']]],
+  ['displayrefreshratechanged',['DisplayRefreshRateChanged',['../class_o_v_r_manager.html#a1b756ab27c8f166cffd73f8d8bc35e1d',1,'OVRManager']]],
+  ['downloadfinished',['DownloadFinished',['../class_youtube_light_1_1_downloader.html#aa09a7ead79735736a9ea46b348306f5f',1,'YoutubeLight::Downloader']]],
+  ['downloadstarted',['DownloadStarted',['../class_youtube_light_1_1_downloader.html#a1f097e7179e37b3a05ebe6a88d299b89',1,'YoutubeLight::Downloader']]]
 ];

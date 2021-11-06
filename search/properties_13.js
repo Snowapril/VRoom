@@ -1,6 +1,20 @@
 var searchData=
 [
-  ['waspinged',['WasPinged',['../class_photon_1_1_realtime_1_1_region.html#aa9ef5812bd23761cb2623cafe1ffc4e9',1,'Photon::Realtime::Region']]],
-  ['worldsize',['WorldSize',['../class_photon_1_1_pun_1_1_demo_1_1_procedural_1_1_world_generator.html#a7369f84b92e36e24e6fd647a90fc91b2',1,'Photon::Pun::Demo::Procedural::WorldGenerator']]],
-  ['worldtype',['WorldType',['../class_photon_1_1_pun_1_1_demo_1_1_procedural_1_1_world_generator.html#afe5b17c27dce6b415c04904d6de8c6cd',1,'Photon::Pun::Demo::Procedural::WorldGenerator']]]
+  ['validtooltagsmask',['ValidToolTagsMask',['../class_oculus_sample_framework_1_1_button_controller.html#a1cd72a970f96546d2e6ce393d1bbcbed',1,'OculusSampleFramework.ButtonController.ValidToolTagsMask()'],['../class_oculus_sample_framework_1_1_interactable.html#a7b23d589a97e90468ddf6fad84432c6c',1,'OculusSampleFramework.Interactable.ValidToolTagsMask()']]],
+  ['value',['Value',['../class_simple_j_s_o_n_1_1_j_s_o_n_node.html#a20d19b7f45ad936d7f8a40e3c6852fe2',1,'SimpleJSON.JSONNode.Value()'],['../class_simple_j_s_o_n_1_1_j_s_o_n_string.html#abdb3a654f54387390505b3246982100c',1,'SimpleJSON.JSONString.Value()'],['../class_simple_j_s_o_n_1_1_j_s_o_n_number.html#ab2c6d4bc845d929be0a1150df3075d6c',1,'SimpleJSON.JSONNumber.Value()'],['../class_simple_j_s_o_n_1_1_j_s_o_n_bool.html#af9de7d35573467f69af96cf657acf46d',1,'SimpleJSON.JSONBool.Value()'],['../class_simple_j_s_o_n_1_1_j_s_o_n_null.html#a3ae9bef4f80a70a8135f32fbf681a0be',1,'SimpleJSON.JSONNull.Value()'],['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_node.html#ae04154c393bb7f195bb86b616d540ed9',1,'OVRSimpleJSON.JSONNode.Value()'],['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_string.html#a044ee2779cbbb0558ab870808c82aa50',1,'OVRSimpleJSON.JSONString.Value()'],['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_number.html#a00c5f760e09e85277024c7c39950fc5f',1,'OVRSimpleJSON.JSONNumber.Value()'],['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_bool.html#a875ad660aa8c05f007da34b42eaa2af8',1,'OVRSimpleJSON.JSONBool.Value()'],['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_null.html#ad3c757e8ef639f8d406c86b4f545b08a',1,'OVRSimpleJSON.JSONNull.Value()']]],
+  ['values',['Values',['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_node.html#abab0e2d3a3c6a9631d05c2ca0f0cb849',1,'OVRSimpleJSON::JSONNode']]],
+  ['velocity',['velocity',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_p2_p_network_ball.html#a35086e8aafb44b7db6c7d17b7f2dfc2f',1,'Oculus.Platform.Samples.VrHoops.P2PNetworkBall.velocity()'],['../class_o_v_r_display.html#ab8a10958013774fc793b329ad0743e26',1,'OVRDisplay.velocity()'],['../class_oculus_sample_framework_1_1_interactable_tool.html#ac8803541489334e9fb2d85c6380b9681',1,'OculusSampleFramework.InteractableTool.Velocity()']]],
+  ['velocityupdatemode',['velocityUpdateMode',['../class_o_v_r_1_1_sound_emitter.html#a2f3009d4dfccf6c654d53fd3ee400fe4',1,'OVR::SoundEmitter']]],
+  ['vendor',['Vendor',['../class_oculus_spatializer_reflection_custom_g_u_i.html#a9fa60805cc01f33e3f3467f248b739ac',1,'OculusSpatializerReflectionCustomGUI']]],
+  ['verticalaxis',['verticalAxis',['../class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#aedb299fc8016fd9e98d129501292c9a1',1,'UnityEngine::EventSystems::OVRInputModule']]],
+  ['video',['Video',['../class_youtube_light_1_1_downloader.html#a57512b644f6559595f86f9b6d7dcd28a',1,'YoutubeLight::Downloader']]],
+  ['videoextension',['VideoExtension',['../class_youtube_light_1_1_video_info.html#afca88b591a764bf037a37f27a423c735',1,'YoutubeLight::VideoInfo']]],
+  ['videotype',['VideoType',['../class_youtube_light_1_1_video_info.html#a6b948a97b39466db85968cd65bf32806',1,'YoutubeLight::VideoInfo']]],
+  ['viewid',['ViewID',['../class_photon_1_1_pun_1_1_photon_view.html#a5ed698bf9795e566e9ff343a507de85f',1,'Photon::Pun::PhotonView']]],
+  ['visibilitystrength',['visibilityStrength',['../class_o_v_r_gaze_pointer.html#a3b45ff562c8a205e0e19a1bf2d36045b',1,'OVRGazePointer']]],
+  ['voipgroup',['VoipGroup',['../class_o_v_r_1_1_audio_manager.html#ab4854cc7d1c8fa85d9e38aabc733f213',1,'OVR::AudioManager']]],
+  ['volume',['volume',['../class_o_v_r_1_1_sound_emitter.html#ac5f7b741d13da4756b2600d434fbf609',1,'OVR::SoundEmitter']]],
+  ['volumelevel',['volumeLevel',['../class_o_v_r_manager.html#a561731825032baac47ed5a442f516f00',1,'OVRManager']]],
+  ['volumetricradius',['VolumetricRadius',['../class_o_n_s_p_audio_source.html#a55ed480a488a04682bc2d644f00e0104',1,'ONSPAudioSource']]],
+  ['vsynccount',['vsyncCount',['../class_o_v_r_manager.html#a40403e3bacb1860d96ad6adbcd629278',1,'OVRManager']]]
 ];

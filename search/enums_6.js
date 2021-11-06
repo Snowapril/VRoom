@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['joinmode',['JoinMode',['../namespace_photon_1_1_realtime.html#ae97c496429f751b88142ce09c2e0e96f',1,'Photon::Realtime']]],
-  ['jsonnodetype',['JSONNodeType',['../namespace_simple_j_s_o_n.html#a62af00acc7925cc0284e634fb10626f5',1,'SimpleJSON']]],
-  ['jsontextmode',['JSONTextMode',['../namespace_simple_j_s_o_n.html#a3981ef39adf14ef6bd21bd800720ca0e',1,'SimpleJSON']]]
+  ['gamepadtype',['GamepadType',['../class_assets_1_1_oculus_1_1_v_r_1_1_editor_1_1_o_v_r_platform_tool.html#a0baab5b1bd39b96478cb8bce96b15acb',1,'Assets::Oculus::VR::Editor::OVRPlatformTool']]]
 ];

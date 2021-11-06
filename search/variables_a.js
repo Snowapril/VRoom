@@ -1,6 +1,7 @@
 var searchData=
 [
   ['join',['Join',['../class_photon_1_1_realtime_1_1_event_code.html#ac6823b1e99ef81adf575c5f3cb9b9acc',1,'Photon.Realtime.EventCode.Join()'],['../class_photon_1_1_realtime_1_1_operation_code.html#afa27968b41d6f3d5ca06a5caffa4ed52',1,'Photon.Realtime.OperationCode.Join()']]],
+  ['joinability',['Joinability',['../class_oculus_1_1_platform_1_1_models_1_1_room.html#a7ce0c7456b08476796e5252b1a170664',1,'Oculus::Platform::Models::Room']]],
   ['joinbutton',['JoinButton',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_friend_list_cell.html#a614a6105f96d3be063b3d10cd1222e2a',1,'Photon::Pun::Demo::Cockpit::FriendListCell']]],
   ['joinbuttoncanvasgroup',['JoinButtonCanvasGroup',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_room_list_cell.html#aab921dc4209edf43cd8829e6e5655f10',1,'Photon::Pun::Demo::Cockpit::RoomListCell']]],
   ['joinfailedfoundactivejoiner',['JoinFailedFoundActiveJoiner',['../class_photon_1_1_realtime_1_1_error_code.html#a7c7cd629e6307bad885cbe94a42250ac',1,'Photon::Realtime::ErrorCode']]],
@@ -12,10 +13,20 @@ var searchData=
   ['joinlobby',['JoinLobby',['../class_photon_1_1_realtime_1_1_operation_code.html#a1d2253c499f9f6d938621a388ef05382',1,'Photon::Realtime::OperationCode']]],
   ['joinlobbybutton',['JoinLobbyButton',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_pun_cockpit.html#a02f1a2cf5ac451194e693a1820faf71b',1,'Photon::Pun::Demo::Cockpit::PunCockpit']]],
   ['joinmode',['JoinMode',['../class_photon_1_1_realtime_1_1_parameter_code.html#a0b91d7d2d79acade928f4e154d7d0367',1,'Photon::Realtime::ParameterCode']]],
+  ['joinpolicy',['JoinPolicy',['../class_oculus_1_1_platform_1_1_models_1_1_room.html#a6c984aa8d1115cc6f4e788afdef31734',1,'Oculus::Platform::Models::Room']]],
   ['joinrandomgame',['JoinRandomGame',['../class_photon_1_1_realtime_1_1_operation_code.html#a7fd45ac8099497a8c3373f4343298816',1,'Photon::Realtime::OperationCode']]],
   ['joinrandomroompanel',['JoinRandomRoomPanel',['../class_photon_1_1_pun_1_1_demo_1_1_asteroids_1_1_lobby_main_panel.html#a6e8e2b8efdde5570ab6f2d318bb26a68',1,'Photon::Pun::Demo::Asteroids::LobbyMainPanel']]],
   ['joinroombutton',['JoinRoomButton',['../class_photon_1_1_pun_1_1_demo_1_1_asteroids_1_1_room_list_entry.html#adc8f0c845035201ae90d2dc92f26a9cb',1,'Photon::Pun::Demo::Asteroids::RoomListEntry']]],
+  ['jointcount',['jointCount',['../structovr_avatar_skinned_mesh_pose.html#a4ec615b7fc00397e8b4018c95126008a',1,'ovrAvatarSkinnedMeshPose']]],
+  ['jointnames',['jointNames',['../class_ovr_avatar_asset_mesh.html#a5ee2d13c25f9149d9179caa069889afd',1,'OvrAvatarAssetMesh.jointNames()'],['../structovr_avatar_skinned_mesh_pose.html#ac71ad070ead28d810f3002cc3ebaf72b',1,'ovrAvatarSkinnedMeshPose.jointNames()']]],
+  ['jointparents',['jointParents',['../structovr_avatar_skinned_mesh_pose.html#a76c1f7e243571d5dfcdd41ea8cd156be',1,'ovrAvatarSkinnedMeshPose']]],
+  ['jointtransform',['jointTransform',['../structovr_avatar_skinned_mesh_pose.html#a36cc998af23d9c91605def9926a58b1a',1,'ovrAvatarSkinnedMeshPose']]],
+  ['joypadclickbutton',['joyPadClickButton',['../class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#ac68bac415ceffa861020b72c30a668ac',1,'UnityEngine::EventSystems::OVRInputModule']]],
+  ['joystickposition',['joystickPosition',['../struct_ovr_avatar_driver_1_1_controller_pose.html#a869a9e3e7e5a3ea14a0e64a42e173aa4',1,'OvrAvatarDriver::ControllerPose']]],
+  ['joystickx',['joystickX',['../structovr_avatar_hand_input_state.html#a302fa877aa6280bb542d4247b376ead6',1,'ovrAvatarHandInputState']]],
+  ['joysticky',['joystickY',['../structovr_avatar_hand_input_state.html#a86f17509d9e75c0735e30f3659426e08',1,'ovrAvatarHandInputState']]],
   ['jsonforhtmlversion',['jsonForHtmlVersion',['../class_light_shaft_1_1_scripts_1_1_youtube_settings.html#aef1621bc26cf743fca2f001fe52f54d9',1,'LightShaft::Scripts::YoutubeSettings']]],
-  ['jumpforce',['JumpForce',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_move_by_keys.html#a8039d3147fa4d408f10e76b052f4ee55',1,'Photon::Pun::UtilityScripts::MoveByKeys']]],
-  ['jumptimeout',['JumpTimeout',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_move_by_keys.html#a18db0ead7df00ef087dea976a4c9d3db',1,'Photon::Pun::UtilityScripts::MoveByKeys']]]
+  ['jumpforce',['JumpForce',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_move_by_keys.html#a8039d3147fa4d408f10e76b052f4ee55',1,'Photon.Pun.UtilityScripts.MoveByKeys.JumpForce()'],['../class_o_v_r_player_controller.html#a251c8980d5628ca76603c45a4f736130',1,'OVRPlayerController.JumpForce()']]],
+  ['jumptimeout',['JumpTimeout',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_move_by_keys.html#a18db0ead7df00ef087dea976a4c9d3db',1,'Photon::Pun::UtilityScripts::MoveByKeys']]],
+  ['justunlocked',['JustUnlocked',['../class_oculus_1_1_platform_1_1_models_1_1_achievement_update.html#a8d3741c07dfe2be42c168fa76c67fd9a',1,'Oculus::Platform::Models::AchievementUpdate']]]
 ];

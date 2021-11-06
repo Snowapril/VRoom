@@ -1,8 +1,21 @@
 var searchData=
 [
+  ['handconfidence',['HandConfidence',['../class_o_v_r_hand.html#a3918c76c7218c442a688076c44d5861f',1,'OVRHand']]],
+  ['handscale',['HandScale',['../class_o_v_r_hand.html#a27ded3cf29a987fd4052c6afdf86c96e',1,'OVRHand']]],
+  ['hasball',['HasBall',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_player.html#aacd2a19f9a73ec7f10d843d2290ef5d5',1,'Oculus::Platform::Samples::VrHoops::Player']]],
+  ['hasinputfocus',['hasInputFocus',['../class_o_v_r_manager.html#a768112df2e2acceeccdcf84ff14dd512',1,'OVRManager']]],
+  ['hasnextpage',['HasNextPage',['../class_oculus_1_1_platform_1_1_models_1_1_deserializable_list.html#aaa360c6119337c238b5c7e815e2caee4',1,'Oculus::Platform::Models::DeserializableList']]],
+  ['haspreviouspage',['HasPreviousPage',['../class_oculus_1_1_platform_1_1_models_1_1_deserializable_list.html#a13874969da49f99210c3da368847fe9b',1,'Oculus::Platform::Models::DeserializableList']]],
   ['hasrejoined',['HasRejoined',['../class_photon_1_1_realtime_1_1_player.html#a9fe7302ad508b4c21422eeeab0460307',1,'Photon::Realtime::Player']]],
+  ['hasvrfocus',['hasVrFocus',['../class_o_v_r_manager.html#aac78feb72db01b8dd22436a4b20ace62',1,'OVRManager']]],
   ['hdr',['HDR',['../class_youtube_light_1_1_video_info.html#aeda29ce3dca6c96944ac29fd51b82711',1,'YoutubeLight::VideoInfo']]],
+  ['headposerelativeoffsetrotation',['headPoseRelativeOffsetRotation',['../class_o_v_r_manager.html#a4d4b0a97341c226ef620c47d01297681',1,'OVRManager']]],
+  ['headposerelativeoffsettranslation',['headPoseRelativeOffsetTranslation',['../class_o_v_r_manager.html#a486b8476acb25991d4d485b349d09de7',1,'OVRManager']]],
   ['helpicon',['HelpIcon',['../class_photon_1_1_pun_1_1_photon_g_u_i.html#a79b19a07d09330a9ddb110a19f99e63d',1,'Photon::Pun::PhotonGUI']]],
+  ['hidden',['hidden',['../class_o_v_r_gaze_pointer.html#a1ed290b8f38451086231d74b129c2596',1,'OVRGazePointer']]],
+  ['highlight',['Highlight',['../class_oculus_sample_framework_1_1_color_grabbable.html#a35eefcc8bba6a3f70bf74e12cbc57f66',1,'OculusSampleFramework::ColorGrabbable']]],
+  ['highscoreleaderboardupdatedcallback',['HighScoreLeaderboardUpdatedCallback',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_leaderboard_manager.html#a2c49975ce625d8298f86ca838f817f84',1,'Oculus::Platform::Samples::VrHoops::LeaderboardManager']]],
+  ['horizontalaxis',['horizontalAxis',['../class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a1b6bf75f3f113549a53039e635f9ea65',1,'UnityEngine::EventSystems::OVRInputModule']]],
   ['hostandport',['HostAndPort',['../class_photon_1_1_realtime_1_1_region.html#aa245553b22c1ba523df2d021f36fb263',1,'Photon::Realtime::Region']]],
   ['httpforward',['HttpForward',['../class_photon_1_1_realtime_1_1_web_flags.html#a945a4e1e21c8f2d726d09447841163e6',1,'Photon::Realtime::WebFlags']]]
 ];

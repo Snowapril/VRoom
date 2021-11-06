@@ -1,10 +1,21 @@
 var searchData=
 [
+  ['ballprefab',['BallPrefab',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_player.html#ace745b388addc59bd5650a9b34cc145f',1,'Oculus::Platform::Samples::VrHoops::Player']]],
+  ['batterylevel',['batteryLevel',['../class_o_v_r_manager.html#ab54c2d96b51affef7876f0666b9e3fcd',1,'OVRManager']]],
+  ['batterystatus',['batteryStatus',['../class_o_v_r_manager.html#a8571110039a23de4264036156c080b04',1,'OVRManager']]],
+  ['batterytemperature',['batteryTemperature',['../class_o_v_r_manager.html#a4951e954607379070e457d3a6644bcce',1,'OVRManager']]],
   ['bestregion',['BestRegion',['../class_photon_1_1_realtime_1_1_region_handler.html#a67b0080dab76836abbeccea64ce634eb',1,'Photon::Realtime::RegionHandler']]],
   ['bestregionsummaryinpreferences',['BestRegionSummaryInPreferences',['../class_photon_1_1_pun_1_1_server_settings.html#a81fb19f1619d0a9cdf030d2e64f79ba9',1,'Photon::Pun::ServerSettings']]],
+  ['bindposes',['BindPoses',['../class_o_v_r_skeleton.html#a2efb21f8cfe37c583f011f2d7dbecb0d',1,'OVRSkeleton']]],
   ['blockid',['BlockId',['../class_photon_1_1_pun_1_1_demo_1_1_procedural_1_1_block.html#ac55e5530d8d414895e71c64b489df73c',1,'Photon::Pun::Demo::Procedural::Block']]],
   ['blocks',['Blocks',['../class_photon_1_1_pun_1_1_demo_1_1_procedural_1_1_cluster.html#a5adcf4c61ca34ba396b9a08729a1282d',1,'Photon::Pun::Demo::Procedural::Cluster']]],
+  ['boneindex',['BoneIndex',['../class_o_v_r_bone_capsule.html#a16cb850d29d4c61a2e6b15f148b0977d',1,'OVRBoneCapsule']]],
+  ['bonerotations',['BoneRotations',['../struct_o_v_r_skeleton_1_1_skeleton_pose_data.html#ace623321beb54a3e2f6ae4fb039db51d',1,'OVRSkeleton::SkeletonPoseData']]],
+  ['bones',['Bones',['../class_o_v_r_skeleton.html#a806dbd4c846beecdc379d0b32b926f20',1,'OVRSkeleton']]],
+  ['boundary',['boundary',['../class_o_v_r_manager.html#ac0de6905fc6e6a9f780229da444e3c27',1,'OVRManager']]],
   ['broadcastpropertieschangetoall',['BroadcastPropertiesChangeToAll',['../class_photon_1_1_realtime_1_1_room.html#ad176930be4ce4e546879e50cc6aa2058',1,'Photon::Realtime::Room']]],
   ['broadcastpropschangetoall',['BroadcastPropsChangeToAll',['../class_photon_1_1_realtime_1_1_room_options.html#a657d8db3f6aae162139fe2e9e316ebfc',1,'Photon::Realtime::RoomOptions']]],
+  ['buildid',['BuildID',['../class_assets_1_1_oculus_1_1_v_r_1_1_editor_1_1_o_v_r_platform_tool_settings.html#a4d524fc66dea0a6a78d58fdf4916a969',1,'Assets::Oculus::VR::Editor::OVRPlatformToolSettings']]],
+  ['buttontype',['buttonType',['../class_media_player_image.html#a63e5a5d8fdf95c5d63a050ea18936353',1,'MediaPlayerImage']]],
   ['bytestodownload',['BytesToDownload',['../class_youtube_light_1_1_downloader.html#aa7b833553836ac8201e135f6257bdb8c',1,'YoutubeLight::Downloader']]]
 ];

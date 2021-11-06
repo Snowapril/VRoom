@@ -1,4 +1,20 @@
 var searchData=
 [
-  ['hd',['HD',['../class_light_shaft_1_1_scripts_1_1_youtube_settings.html#a9f5f693d80b0b750b66b8087cf10b938a27178471f2c4019c872d1545a0f154c7',1,'LightShaft::Scripts::YoutubeSettings']]]
+  ['game',['Game',['../namespace_photon_1_1_realtime.html#a764ac92345b843c15d1935d1a6eafaf0a63d72051e901c069f8aa1b32aa0c43bb',1,'Photon::Realtime']]],
+  ['gameandactor',['GameAndActor',['../namespace_photon_1_1_realtime.html#a764ac92345b843c15d1935d1a6eafaf0a68ebb8ef1cbd0371b060a93d7788d460',1,'Photon::Realtime']]],
+  ['gameserver',['GameServer',['../namespace_photon_1_1_realtime.html#a354e0e08dc26547ca0735fbcc3825356a1c7d561350ce0a5a7e51b973a3796315',1,'Photon::Realtime']]],
+  ['gamma',['Gamma',['../namespace_o_v_r_1_1_open_v_r.html#a6b3f16e977f440fadfe5e1367760e005ad9cdb0f6e0d556347c10a8695545a4b5',1,'OVR::OpenVR']]],
+  ['gazetarget',['GazeTarget',['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#a4d79e444febc91f0b3c1505b9338e0c2a11c81dabe80463e03df3d5d726436aff',1,'OvrAvatarSDKCAPI.cs']]],
+  ['generic',['Generic',['../namespace_o_v_r_touch_sample.html#a529ebb3a70f03ef527b3fc76bfefa4f6a8045a0a6c688b0635e3caccc408a1446',1,'OVRTouchSample']]],
+  ['generictracker',['GenericTracker',['../namespace_o_v_r_1_1_open_v_r.html#a0f5bd2e69bc13594cbc8ac29250b006ea9190b3789d1a2daa3af812221cd966fe',1,'OVR::OpenVR']]],
+  ['glass',['Glass',['../class_o_n_s_p_propagation_material.html#a44273d800028c63b4f8b7965f9e1aaddaaae44179fda7ddcbf8916aff53846128',1,'ONSPPropagationMaterial']]],
+  ['glassheavy',['GlassHeavy',['../class_o_n_s_p_propagation_material.html#a44273d800028c63b4f8b7965f9e1aaddacce7f45c5db9f7541111c8735c478f19',1,'ONSPPropagationMaterial']]],
+  ['go',['Go',['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#a9971dc680103e87f677456d076b5c368a5f075ae3e1f9d0382bb8c4632991f96f',1,'OvrAvatarSDKCAPI.cs']]],
+  ['google',['Google',['../namespace_oculus_1_1_platform.html#a870e4ed8471e948b35ef014e8e13e253a8b36e9207c24c76e6719268e49201d94',1,'Oculus::Platform']]],
+  ['granted',['Granted',['../namespace_oculus_1_1_platform.html#abcc27fa6625c6b8f5b2221f77bf04bdcac322f9346b70efdd31968628d5ee68db',1,'Oculus::Platform']]],
+  ['grass',['Grass',['../class_o_n_s_p_propagation_material.html#a44273d800028c63b4f8b7965f9e1aaddaaac9a63596f76a62bb9f61a5dd7c0d25',1,'ONSPPropagationMaterial']]],
+  ['gravel',['Gravel',['../class_o_n_s_p_propagation_material.html#a44273d800028c63b4f8b7965f9e1aadda3fac7288dbc045b234fde61225fae806',1,'ONSPPropagationMaterial']]],
+  ['gripcube',['GripCube',['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#aa22191c46500617820a2411a5a7b8557a4f3184b500577e58cb5fd060c83ea2ff',1,'OvrAvatarSDKCAPI.cs']]],
+  ['gripsphere',['GripSphere',['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#aa22191c46500617820a2411a5a7b8557a8bb5c974aded3854c39a95c669231475',1,'OvrAvatarSDKCAPI.cs']]],
+  ['gypsumboard',['GypsumBoard',['../class_o_n_s_p_propagation_material.html#a44273d800028c63b4f8b7965f9e1aaddadbf8cf8543af6e1958c5e873880bb593',1,'ONSPPropagationMaterial']]]
 ];

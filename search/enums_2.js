@@ -1,10 +1,22 @@
 var searchData=
 [
+  ['challengecreationtype',['ChallengeCreationType',['../namespace_oculus_1_1_platform.html#a5428ea6d58d0541326f28c757711144b',1,'Oculus::Platform']]],
+  ['challengeviewerfilter',['ChallengeViewerFilter',['../namespace_oculus_1_1_platform.html#afa9b6a65d46205366eee30140a4a6b20',1,'Oculus::Platform']]],
+  ['challengevisibility',['ChallengeVisibility',['../namespace_oculus_1_1_platform.html#a1061597ec07ba8a3def037ee4cd13640',1,'Oculus::Platform']]],
+  ['chaperonecalibrationstate',['ChaperoneCalibrationState',['../namespace_o_v_r_1_1_open_v_r.html#acc48267caf3a35ddbaea2d9708ee0481',1,'OVR::OpenVR']]],
   ['chatdisconnectcause',['ChatDisconnectCause',['../namespace_photon_1_1_chat.html#ae62af83eed801a62ffbe6bd2fcdd454e',1,'Photon::Chat']]],
   ['chatstate',['ChatState',['../namespace_photon_1_1_chat.html#afc6e9ce1b2729658dbf7d583305c6c81',1,'Photon::Chat']]],
   ['clientapptype',['ClientAppType',['../namespace_photon_1_1_realtime.html#aa38fa4af1bcb3dcd4ae2d2faf507aa33',1,'Photon::Realtime']]],
   ['clientstate',['ClientState',['../group__public_api.html#ga5500bb7cf5b4d5493f545a2fcb02ae16',1,'Photon::Realtime']]],
+  ['cloudstoragedatastatus',['CloudStorageDataStatus',['../namespace_oculus_1_1_platform.html#a687f251594a094e3c2f1127661f11b4d',1,'Oculus::Platform']]],
+  ['cloudstorageupdatestatus',['CloudStorageUpdateStatus',['../namespace_oculus_1_1_platform.html#a42d24db39ac50a5e8e75ce0d2c42fc69',1,'Oculus::Platform']]],
   ['clustersize',['ClusterSize',['../namespace_photon_1_1_pun_1_1_demo_1_1_procedural.html#a0de8baf1b1faf3edccc985244f2b9e92',1,'Photon::Pun::Demo::Procedural']]],
+  ['colorspace',['ColorSpace',['../class_o_v_r_manager.html#a674e7b22e74089919f092eff3f360d29',1,'OVRManager']]],
+  ['confidencebehavior',['ConfidenceBehavior',['../class_o_v_r_mesh_renderer.html#ac109e8aa2a3472f07c735c9b235f5a66',1,'OVRMeshRenderer.ConfidenceBehavior()'],['../class_o_v_r_skeleton_renderer.html#a3de6ef11c338039c6ab2fd17c52d55a3',1,'OVRSkeletonRenderer.ConfidenceBehavior()']]],
+  ['connectionstate',['ConnectionState',['../class_o_v_r_network_1_1_o_v_r_network_tcp_client.html#a6ac0b6efb6cf287c958e5fc0ce8eb433',1,'OVRNetwork::OVRNetworkTcpClient']]],
   ['connectmethod',['ConnectMethod',['../namespace_photon_1_1_pun.html#ae6ad7c8a197bec0e05c9d43278a5ebe7',1,'Photon::Pun']]],
+  ['contacttest',['ContactTest',['../class_oculus_sample_framework_1_1_button_controller.html#a384e5ade58c3b7c5b89504b484f61409',1,'OculusSampleFramework::ButtonController']]],
+  ['contextproviders',['ContextProviders',['../class_o_v_r_lip_sync.html#a4343519e1990e89e1255db04b9281b5b',1,'OVRLipSync']]],
+  ['crosshairstate',['CrosshairState',['../class_oculus_sample_framework_1_1_grabbable_crosshair.html#a5652c4fec37e3206be17d58cc793baeb',1,'OculusSampleFramework::GrabbableCrosshair']]],
   ['customauthenticationtype',['CustomAuthenticationType',['../namespace_photon_1_1_chat.html#a7c13dc83e6b84e241e105501af35ffd6',1,'Photon.Chat.CustomAuthenticationType()'],['../namespace_photon_1_1_realtime.html#a5317f0e297e7082e4b1cca873695a82a',1,'Photon.Realtime.CustomAuthenticationType()']]]
 ];

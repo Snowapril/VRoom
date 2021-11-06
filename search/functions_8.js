@@ -1,14 +1,18 @@
 var searchData=
 [
-  ['increaseblockheight',['IncreaseBlockHeight',['../class_photon_1_1_pun_1_1_demo_1_1_procedural_1_1_cluster.html#a46e4fefd9fd392c198ba91e92b36110a',1,'Photon.Pun.Demo.Procedural.Cluster.IncreaseBlockHeight()'],['../class_photon_1_1_pun_1_1_demo_1_1_procedural_1_1_world_generator.html#af58cd4a7981a852d308d9bd6caf9d048',1,'Photon.Pun.Demo.Procedural.WorldGenerator.IncreaseBlockHeight()']]],
-  ['initialize',['Initialize',['../class_photon_1_1_pun_1_1_demo_1_1_asteroids_1_1_player_list_entry.html#a7f8b92449ee4b58ad1e61e8024a35a0f',1,'Photon.Pun.Demo.Asteroids.PlayerListEntry.Initialize()'],['../class_photon_1_1_pun_1_1_demo_1_1_asteroids_1_1_room_list_entry.html#abd5450c06a49e940656fa2c85216c3a0',1,'Photon.Pun.Demo.Asteroids.RoomListEntry.Initialize()']]],
-  ['initializebullet',['InitializeBullet',['../class_photon_1_1_pun_1_1_demo_1_1_asteroids_1_1_bullet.html#a170f1b960162af343212919190faa5e9',1,'Photon::Pun::Demo::Asteroids::Bullet']]],
-  ['initializeonloadmethod',['InitializeOnLoadMethod',['../class_photon_1_1_pun_1_1_photon_editor.html#a6f2a81525fca83b7245f023595015253',1,'Photon::Pun::PhotonEditor']]],
-  ['instantiate',['Instantiate',['../interface_photon_1_1_pun_1_1_i_pun_prefab_pool.html#a870a5155ad093e64f224a774cb1959d9',1,'Photon.Pun.IPunPrefabPool.Instantiate()'],['../class_photon_1_1_pun_1_1_default_pool.html#a676a4c575a8be85f802d35c010a66232',1,'Photon.Pun.DefaultPool.Instantiate()']]],
-  ['instantiateparameters',['InstantiateParameters',['../struct_photon_1_1_pun_1_1_instantiate_parameters.html#a60a72a0be8ee0ca1c81b45d71d423f82',1,'Photon::Pun::InstantiateParameters']]],
-  ['interaction',['Interaction',['../interface_interactable.html#a3181f08b04c399a3ee4e231037d4d0a7',1,'Interactable']]],
-  ['isappid',['IsAppId',['../class_photon_1_1_realtime_1_1_app_settings.html#af97d4d2ec546fac28b7e02365da0d63d',1,'Photon.Realtime.AppSettings.IsAppId()'],['../class_photon_1_1_pun_1_1_server_settings.html#ac96c99572f9b9c595510fbee9ed31469',1,'Photon.Pun.ServerSettings.IsAppId()']]],
-  ['ispointinsidecell',['IsPointInsideCell',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_cell_tree_node.html#a2c550fbbf2ed973dc8c2f093721b2ccd',1,'Photon::Pun::UtilityScripts::CellTreeNode']]],
-  ['ispointnearcell',['IsPointNearCell',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_cell_tree_node.html#a68c3fb47028b8f0a5a34e22053e860b8',1,'Photon::Pun::UtilityScripts::CellTreeNode']]],
-  ['israycastlocationvalid',['IsRaycastLocationValid',['../class_photon_1_1_chat_1_1_demo_1_1_ignore_ui_raycast_when_inactive.html#a8e8e6ec3936a7835aae70401e5951ac7',1,'Photon::Chat::Demo::IgnoreUiRaycastWhenInactive']]]
+  ['handlemessage',['HandleMessage',['../class_oculus_1_1_platform_1_1_request.html#aee3aaf642e8d20d7b497372e805e0d9e',1,'Oculus.Platform.Request.HandleMessage(Message msg)'],['../class_oculus_1_1_platform_1_1_request.html#aa3914b2a08d97421c9d7373bd1e2d797',1,'Oculus.Platform.Request.HandleMessage(Message msg)']]],
+  ['hanguponclick',['HangupOnClick',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_platform_manager.html#ac431808177921c305e61ccba52c1ed8e',1,'Oculus::Platform::Samples::VrVoiceChat::PlatformManager']]],
+  ['hascamera',['HasCamera',['../class_o_v_r_1_1_open_v_r_1_1_c_v_r_tracked_camera.html#a26fa9d5b08b1c308d444b2ed71d28ae4',1,'OVR::OpenVR::CVRTrackedCamera']]],
+  ['hasconnectedclient',['HasConnectedClient',['../class_o_v_r_network_1_1_o_v_r_network_tcp_server.html#aaa50a5a04f787e310973301c95dc1280',1,'OVRNetwork::OVRNetworkTcpServer']]],
+  ['hasqueuedobjects',['HasQueuedObjects',['../class_photon_1_1_pun_1_1_photon_stream_queue.html#a5ce6660209d3c8b2988d2e4444dfe36b',1,'Photon::Pun::PhotonStreamQueue']]],
+  ['hide',['Hide',['../class_debug_u_i_builder.html#a97f28623276ddae53c17aa9763bb41ab',1,'DebugUIBuilder']]],
+  ['hidecontrollers',['HideControllers',['../class_light_shaft_1_1_scripts_1_1_youtube_video_controller.html#a94dbc0214579e6c25603b154c6ded6a7',1,'LightShaft::Scripts::YoutubeVideoController']]],
+  ['hidekeyboard',['HideKeyboard',['../class_o_v_r_1_1_open_v_r_1_1_c_v_r_overlay.html#a76b1a8ef3b753d9f415bc75dab657509',1,'OVR::OpenVR::CVROverlay']]],
+  ['hideloading',['HideLoading',['../class_light_shaft_1_1_scripts_1_1_youtube_settings.html#a938e5fbfac28e1edb72f731f0f1f3550',1,'LightShaft::Scripts::YoutubeSettings']]],
+  ['hidemirrorwindow',['HideMirrorWindow',['../class_o_v_r_1_1_open_v_r_1_1_c_v_r_compositor.html#a75434f8b7a5984206e364348fe7f00e8',1,'OVR::OpenVR::CVRCompositor']]],
+  ['hideoverlay',['HideOverlay',['../class_o_v_r_1_1_open_v_r_1_1_c_v_r_overlay.html#a7ebbda85cbf32568ddbe5a4afccafc09',1,'OVR::OpenVR::CVROverlay']]],
+  ['hinset',['HInset',['../class_oculus_1_1_platform_1_1_g_u_i_helper.html#a578704c3841a35be5d140d53dc43098f',1,'Oculus::Platform::GUIHelper']]],
+  ['hookscreenshot',['HookScreenshot',['../class_o_v_r_1_1_open_v_r_1_1_c_v_r_screenshots.html#a78db4a53cd16fdf8c3145f3d414392c2',1,'OVR::OpenVR::CVRScreenshots']]],
+  ['html5playerresult',['Html5PlayerResult',['../class_light_shaft_1_1_scripts_1_1_youtube_settings_1_1_html5_player_result.html#a6cbe0651cacd75f64486cc74a7ddb8e1',1,'LightShaft::Scripts::YoutubeSettings::Html5PlayerResult']]],
+  ['httptransferupdate',['HttpTransferUpdate',['../class_oculus_1_1_platform_1_1_models_1_1_http_transfer_update.html#a829cd91c41e5eb610a068b2b168f7a61',1,'Oculus::Platform::Models::HttpTransferUpdate']]]
 ];

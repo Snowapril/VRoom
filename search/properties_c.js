@@ -1,5 +1,13 @@
 var searchData=
 [
-  ['owner',['Owner',['../class_photon_1_1_pun_1_1_photon_view.html#ab72b5dbbff54e7e4bc8027998ec9d408',1,'Photon.Pun.PhotonView.Owner()'],['../class_photon_1_1_pun_1_1_demo_1_1_asteroids_1_1_bullet.html#a648bd9270e8ac097e6ec03057a8f3f59',1,'Photon.Pun.Demo.Asteroids.Bullet.Owner()']]],
-  ['owneractornr',['OwnerActorNr',['../class_photon_1_1_pun_1_1_photon_view.html#a00d8b5429a5954ddc2b0d2711965d4f6',1,'Photon::Pun::PhotonView']]]
+  ['name',['name',['../class_o_v_r_1_1_sound_f_x_ref.html#a6e533cdc74deac8cc5ba694649ccf45b',1,'OVR.SoundFXRef.name()'],['../class_photon_1_1_realtime_1_1_friend_info.html#aed0e7b1ee37639406fa4f5af89a40da4',1,'Photon.Realtime.FriendInfo.Name()'],['../class_photon_1_1_realtime_1_1_room.html#afcfe0384320a9c317bbd1c23ee733bc1',1,'Photon.Realtime.Room.Name()'],['../class_photon_1_1_realtime_1_1_room_info.html#aecbf5c703fccd08e084381c922f67788',1,'Photon.Realtime.RoomInfo.Name()'],['../class_photon_1_1_realtime_1_1_web_rpc_response.html#ae369e564fdc6aad38be27eec03c172a5',1,'Photon.Realtime.WebRpcResponse.Name()'],['../class_oculus_spatializer_reflection_custom_g_u_i.html#a8092c7f3dad1b5159eb0bf1822e6bf0e',1,'OculusSpatializerReflectionCustomGUI.Name()']]],
+  ['nameserveraddress',['NameServerAddress',['../class_photon_1_1_chat_1_1_chat_client.html#acd09983e6a7c5f77386068daea5c1e5e',1,'Photon.Chat.ChatClient.NameServerAddress()'],['../class_photon_1_1_chat_1_1_chat_peer.html#a541b0c29815c07c87c49e62827c5b33a',1,'Photon.Chat.ChatPeer.NameServerAddress()'],['../class_photon_1_1_realtime_1_1_load_balancing_client.html#a74e14a2c1ac523134d9e7fbb43bf4d6b',1,'Photon.Realtime.LoadBalancingClient.NameServerAddress()']]],
+  ['nametext',['NameText',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_player_area.html#a37cd87e4617207eeb6d3e6be9e0ea50a',1,'Oculus::Platform::Samples::VrHoops::PlayerArea']]],
+  ['nativecolorgamut',['nativeColorGamut',['../class_o_v_r_manager.html#ac578ba859f4de5720666134f22dff781',1,'OVRManager']]],
+  ['near',['Near',['../class_o_n_s_p_audio_source.html#a9cbbae61d8ece9dc710d89f2dfb423fd',1,'ONSPAudioSource']]],
+  ['nearfalloff',['NearFallOff',['../class_o_v_r_1_1_audio_manager.html#a4a0598df68c58322f2681594a559ba2b',1,'OVR::AudioManager']]],
+  ['neckheight',['neckHeight',['../class_o_v_r_profile.html#a623973c3b10a3cb28ac18fb0848698e5',1,'OVRProfile']]],
+  ['nextmovedirection',['NextMoveDirection',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_goal_mover.html#aef51d4bcf7f59045f208d1f95a17ddcc',1,'Oculus::Platform::Samples::VrHoops::GoalMover']]],
+  ['nexturl',['NextUrl',['../class_oculus_1_1_platform_1_1_models_1_1_deserializable_list.html#ae9a466d973d05503238833af55f23cec',1,'Oculus::Platform::Models::DeserializableList']]],
+  ['nickname',['NickName',['../class_photon_1_1_realtime_1_1_load_balancing_client.html#ad439b4aa3b30db97be26fa5c27c1dff8',1,'Photon.Realtime.LoadBalancingClient.NickName()'],['../class_photon_1_1_realtime_1_1_player.html#adf7350041e899cf8138dc2c31e2bbb62',1,'Photon.Realtime.Player.NickName()']]]
 ];

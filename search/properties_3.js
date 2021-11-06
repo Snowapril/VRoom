@@ -1,16 +1,28 @@
 var searchData=
 [
+  ['data',['Data',['../class_oculus_1_1_platform_1_1_message.html#a353f2f359119358b9a1429c7bb8652d8',1,'Oculus.Platform.Message.Data()'],['../class_oculus_1_1_platform_1_1_models_1_1_deserializable_list.html#a84a992a172bd95d1f49d0b93a635b344',1,'Oculus.Platform.Models.DeserializableList.Data()']]],
   ['debugmessage',['DebugMessage',['../class_photon_1_1_realtime_1_1_web_rpc_response.html#a0cc7365b12a09150ffdcc21ea3f6e1ff',1,'Photon::Realtime::WebRpcResponse']]],
   ['debugout',['DebugOut',['../class_photon_1_1_chat_1_1_chat_client.html#af4333dbf23b2a561999bf4afc359617b',1,'Photon::Chat::ChatClient']]],
-  ['deepchildren',['DeepChildren',['../class_simple_j_s_o_n_1_1_j_s_o_n_node.html#aa07d818a3cd25ec46e60b3ec29b8ddb8',1,'SimpleJSON::JSONNode']]],
+  ['debugsymbolsdirectory',['DebugSymbolsDirectory',['../class_assets_1_1_oculus_1_1_v_r_1_1_editor_1_1_o_v_r_platform_tool_settings.html#a0c7ff795aba22df7ed20156e0cba417b',1,'Assets::Oculus::VR::Editor::OVRPlatformToolSettings']]],
+  ['deepchildren',['DeepChildren',['../class_simple_j_s_o_n_1_1_j_s_o_n_node.html#aa07d818a3cd25ec46e60b3ec29b8ddb8',1,'SimpleJSON.JSONNode.DeepChildren()'],['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_node.html#a8c203520389e6f53bf870cdeead3576c',1,'OVRSimpleJSON.JSONNode.DeepChildren()']]],
   ['defaultaddbuttonstyle',['DefaultAddButtonStyle',['../class_photon_1_1_pun_1_1_photon_g_u_i.html#a793a82e5619e4bd54bf6d77f01804657',1,'Photon::Pun::PhotonGUI']]],
   ['defaultcontainerrowstyle',['DefaultContainerRowStyle',['../class_photon_1_1_pun_1_1_photon_g_u_i.html#a69d16f42a656047e8cceaf863e255aba',1,'Photon::Pun::PhotonGUI']]],
   ['defaultcontainerstyle',['DefaultContainerStyle',['../class_photon_1_1_pun_1_1_photon_g_u_i.html#a1a5c3bcb83ac56284b04a5c221a27d4b',1,'Photon::Pun::PhotonGUI']]],
   ['defaultremovebuttonstyle',['DefaultRemoveButtonStyle',['../class_photon_1_1_pun_1_1_photon_g_u_i.html#a128a139a488d2ad4809007423c835c43',1,'Photon::Pun::PhotonGUI']]],
   ['defaulttitlestyle',['DefaultTitleStyle',['../class_photon_1_1_pun_1_1_photon_g_u_i.html#a92986a49125c841e20780c82cebb8d05',1,'Photon::Pun::PhotonGUI']]],
   ['deletenullproperties',['DeleteNullProperties',['../class_photon_1_1_realtime_1_1_room_options.html#aff222b21fbec94bdf6f5b24909ac1e44',1,'Photon.Realtime.RoomOptions.DeleteNullProperties()'],['../class_photon_1_1_realtime_1_1_room.html#aa5bdd98d4845727300c3f67b884d967e',1,'Photon.Realtime.Room.DeleteNullProperties()']]],
+  ['depth',['depth',['../class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a244570861564ba799c49435d071fbe60',1,'UnityEngine::EventSystems::OVRPhysicsRaycaster']]],
+  ['description',['Description',['../class_oculus_spatializer_reflection_custom_g_u_i.html#ab8e09aac9d06b48ea38f113971838c57',1,'OculusSpatializerReflectionCustomGUI']]],
+  ['destinationrotation',['DestinationRotation',['../class_locomotion_teleport.html#a148f5c6c3540ad03cbc61edaedb55e38',1,'LocomotionTeleport']]],
+  ['destrectmaterial',['DestRectMaterial',['../class_o_v_r_overlay_editor.html#a3199a4cac786589e32cb1561f6348931',1,'OVROverlayEditor']]],
   ['disablingtype',['disablingType',['../class_draw_if_attribute.html#a3f8c32ec8d793ed0014e8c3cbcddf4cd',1,'DrawIfAttribute']]],
   ['disconnectedcause',['DisconnectedCause',['../class_photon_1_1_chat_1_1_chat_client.html#af21defff503f937fec64ac09ec502b50',1,'Photon.Chat.ChatClient.DisconnectedCause()'],['../class_photon_1_1_realtime_1_1_load_balancing_client.html#a24120686f2811a69cb4ec4e92964a2a6',1,'Photon.Realtime.LoadBalancingClient.DisconnectedCause()']]],
+  ['display',['display',['../class_o_v_r_manager.html#ad7d9a79c2bd07b8d9412e4be0b23c75e',1,'OVRManager']]],
+  ['displayfrequenciesavailable',['displayFrequenciesAvailable',['../class_o_v_r_display.html#adb961fcb89601b31ecfe8b717e0a6df5',1,'OVRDisplay']]],
+  ['displayfrequency',['displayFrequency',['../class_o_v_r_display.html#a3b74c02681385aadf895e07fb10e2123',1,'OVRDisplay']]],
+  ['distance',['Distance',['../class_oculus_sample_framework_1_1_train_car_base.html#a3453866e0270764d86255012069be93d',1,'OculusSampleFramework::TrainCarBase']]],
+  ['distancebehindparentscaled',['DistanceBehindParentScaled',['../class_oculus_sample_framework_1_1_train_car.html#af548a9f221669b22e302f238d724a804',1,'OculusSampleFramework::TrainCar']]],
   ['done',['Done',['../class_photon_1_1_realtime_1_1_region_pinger.html#a59ae9b58a573d972d4e5bcc6eb9fa005',1,'Photon::Realtime::RegionPinger']]],
-  ['downloadurl',['DownloadUrl',['../class_youtube_light_1_1_video_info.html#aab6147d41693d05ff61547e13c7c3d9b',1,'YoutubeLight::VideoInfo']]]
+  ['downloadurl',['DownloadUrl',['../class_youtube_light_1_1_video_info.html#aab6147d41693d05ff61547e13c7c3d9b',1,'YoutubeLight::VideoInfo']]],
+  ['duration',['Duration',['../class_ovr_avatar_packet.html#a0ae98df906976c3edc20d6268ab5731e',1,'OvrAvatarPacket.Duration()'],['../class_movie_player_sample.html#af86dbe6c7f9de5820eb31961b1d219f6',1,'MoviePlayerSample.Duration()']]]
 ];

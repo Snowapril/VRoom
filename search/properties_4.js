@@ -1,10 +1,23 @@
 var searchData=
 [
   ['elapsedtimeinturn',['ElapsedTimeInTurn',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_pun_turn_manager.html#ae1880e4e03759a28171afa5304bb9e3d',1,'Photon::Pun::UtilityScripts::PunTurnManager']]],
+  ['emittergroup',['EmitterGroup',['../class_o_v_r_1_1_audio_manager.html#a438cdc2018f22ffd7adde05e241165ac',1,'OVR::AudioManager']]],
   ['emptyroomttl',['EmptyRoomTtl',['../class_photon_1_1_realtime_1_1_room.html#a8225b8a5d67bcb6e6c8248f432bd7986',1,'Photon::Realtime::Room']]],
   ['enabledregions',['EnabledRegions',['../class_photon_1_1_realtime_1_1_region_handler.html#af85449ad97d5fa577d7685814ff525c2',1,'Photon::Realtime::RegionHandler']]],
   ['enableprotocolfallback',['EnableProtocolFallback',['../class_photon_1_1_chat_1_1_chat_client.html#a0299296d1acde3271523056464c0ac11',1,'Photon.Chat.ChatClient.EnableProtocolFallback()'],['../class_photon_1_1_realtime_1_1_load_balancing_client.html#a921031ab1f0421340cc983de7367390d',1,'Photon.Realtime.LoadBalancingClient.EnableProtocolFallback()']]],
+  ['enablerfl',['EnableRfl',['../class_o_n_s_p_audio_source.html#a6294855d2fdaf8ee625a79a81a21daf9',1,'ONSPAudioSource']]],
+  ['enablespatialization',['EnableSpatialization',['../class_o_n_s_p_audio_source.html#a364178e08d517e26d7c273207040036a',1,'ONSPAudioSource.EnableSpatialization()'],['../class_o_v_r_1_1_audio_manager.html#a8d84af99be8f83d857c029291c4e0b69',1,'OVR.AudioManager.enableSpatialization()']]],
+  ['enablestate',['EnableState',['../class_oculus_sample_framework_1_1_finger_tip_poke_tool.html#ab324cb2c4c058422a957371d2d5d1fe4',1,'OculusSampleFramework.FingerTipPokeTool.EnableState()'],['../class_oculus_sample_framework_1_1_finger_tip_poke_tool_view.html#a2608022a8732607f3f23fddab7774c5b',1,'OculusSampleFramework.FingerTipPokeToolView.EnableState()'],['../class_oculus_sample_framework_1_1_interactable_tool.html#ab68104e50b87ad710bb50cffce7bfdef',1,'OculusSampleFramework.InteractableTool.EnableState()'],['../interface_oculus_sample_framework_1_1_interactable_tool_view.html#a0640c3626b6a21c9d16004005d7a83a6',1,'OculusSampleFramework.InteractableToolView.EnableState()'],['../class_oculus_sample_framework_1_1_ray_tool.html#a94f3bceccdf7ab90ca0d4c1ee3b77cf9',1,'OculusSampleFramework.RayTool.EnableState()'],['../class_oculus_sample_framework_1_1_ray_tool_view.html#aa3c1abfce98279df529d4b1a15bc4ec5',1,'OculusSampleFramework.RayToolView.EnableState()']]],
+  ['endpose',['EndPose',['../class_oculus_sample_framework_1_1_track_segment.html#a8adef8735bf61fa86b4a7a67c26307d9',1,'OculusSampleFramework::TrackSegment']]],
   ['endtime',['EndTime',['../class_subtitle_item.html#a3bf712ab1c598db888c75ebfedc2c35f',1,'SubtitleItem']]],
+  ['enqueueresultcallback',['EnqueueResultCallback',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_matchmaking_manager.html#afca8de70bf95f3a6221bababea64e0be',1,'Oculus::Platform::Samples::VrHoops::MatchmakingManager']]],
+  ['eventcamera',['eventCamera',['../class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a947b137eef203661c61e0ae3b5be1308',1,'UnityEngine.EventSystems.OVRPhysicsRaycaster.eventCamera()'],['../class_o_v_r_raycaster.html#a555191963584c60fc15d1c5a46909774',1,'OVRRaycaster.eventCamera()']]],
+  ['eventmask',['eventMask',['../class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a906180b64e51d6ab26839314e7498876',1,'UnityEngine::EventSystems::OVRPhysicsRaycaster']]],
+  ['expectedposition',['ExpectedPosition',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_goal_mover.html#af1cd03db94db21ff6bde8b8304c491f0',1,'Oculus::Platform::Samples::VrHoops::GoalMover']]],
   ['expectedprotocol',['ExpectedProtocol',['../class_photon_1_1_realtime_1_1_load_balancing_client.html#a0b8309589ae2a1c2bca75b1c615aecfb',1,'Photon::Realtime::LoadBalancingClient']]],
-  ['expectedusers',['ExpectedUsers',['../class_photon_1_1_realtime_1_1_room.html#a75c9a7f303737cde61ffc2b597c90d9c',1,'Photon::Realtime::Room']]]
+  ['expectedusers',['ExpectedUsers',['../class_photon_1_1_realtime_1_1_room.html#a75c9a7f303737cde61ffc2b597c90d9c',1,'Photon::Realtime::Room']]],
+  ['extendeddisplay',['ExtendedDisplay',['../class_o_v_r_1_1_open_v_r_1_1_open_v_r.html#a8d6f747888b6c17f64aafe9b2c78d898',1,'OVR::OpenVR::OpenVR']]],
+  ['eyedepth',['eyeDepth',['../class_o_v_r_profile.html#a36bae90527d44b7af68b97409697bf84',1,'OVRProfile']]],
+  ['eyeheight',['eyeHeight',['../class_o_v_r_profile.html#a0fb58491c2c7f81f623f3700d80c9c49',1,'OVRProfile']]],
+  ['eyetextureformat',['eyeTextureFormat',['../class_o_v_r_manager.html#a11a61702c02edf5807deb11bc88ae0e9',1,'OVRManager']]]
 ];
