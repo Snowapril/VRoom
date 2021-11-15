@@ -1,11 +1,14 @@
+using Photon.Pun;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
 
 public class DesktopPlayer : Player
 {
     [SerializeField] private DesktopChracterInfo characterModel;
     [SerializeField] private float mouseTurnSpeed = 4.0f;
+    [SerializeField] private PhotonView photonView;
     
     float xRotate = 0f;
     public override void PlayerInit()
@@ -14,6 +17,8 @@ public class DesktopPlayer : Player
     }
     void Start()
     {
+        if (!photonView.IsMine && PhotonNetwork.IsConnected)
+            return;
         PlayerInit();
         Camera.main.transform.parent = characterModel.GetCameraTransform();
         Camera.main.transform.localPosition = Vector3.zero;
@@ -28,6 +33,8 @@ public class DesktopPlayer : Player
 
     void LateUpdate()
     {
+        if (!photonView.IsMine && PhotonNetwork.IsConnected)
+            return;
         MouseRotation();
         PlayerMove();
         currentPlayerMoveVector = Vector3.zero;

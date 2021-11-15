@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Interactable
+  - UserRoot
+  - PlayerHead
+  - PlayerRightHand
+  - PlayerLeftHand
   layers:
   - Default
   - TransparentFX
