@@ -5,9 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Network/Photon Tutorial/NetworkTestScene.unity
+    guid: 177b0a5d2c3b79d45bc8f4ab674f6f9b
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Network/Photon Tutorial/NetworkRoom1.unity
+    guid: 92c58a8e002aaaf4683dfa272faa87f4
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Network/Photon Tutorial/NetworkRoom2.unity
+    guid: 2a3c60a061e17e94ea42e73125639a4e
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Network/Photon Tutorial/NetworkRoom3.unity
+    guid: db2b0f1a2db71644aba8424de63d9340
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Network/Photon Tutorial/NetworkRoom4.unity
+    guid: 4763da57c971aa840a0319d906c69ff1
   - enabled: 1
-    path: Assets/Scenes/WebXRTestScene.unity
-    guid: eff0443fe161e864e94df50203be290f
+    path: Assets/Scenes/Test Scenes/Network/Test2/VR Network.unity
+    guid: 4e1d6b6136834b24785e6f25cbd3d2b2
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 667ff0743a9961348879607300482ec2,
       type: 2}

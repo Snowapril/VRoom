@@ -52,7 +52,11 @@ namespace Oculus.Platform
       CAPI.ovr_RichPresenceOptions_SetIsIdle(Handle, value);
     }
 
-    /// Set whether or not the person is shown as joinable or not to others
+    /// Set whether or not the person is shown as joinable or not to others. A user
+    /// that is joinable can invite others to join them. Set this to false if other
+    /// users would not be able to join this user. For example: the current session
+    /// is full, or only the host can invite others and the current user is not the
+    /// host.
     public void SetIsJoinable(bool value) {
       CAPI.ovr_RichPresenceOptions_SetIsJoinable(Handle, value);
     }

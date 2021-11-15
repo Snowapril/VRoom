@@ -1239,6 +1239,176 @@ namespace Oculus.Platform
 
   public static partial class GroupPresence
   {
+    /// Clear rich presence for running app
+    ///
+    public static Request Clear()
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request(CAPI.ovr_GroupPresence_Clear());
+      }
+
+      return null;
+    }
+
+    /// Launch the flow to allow the user to invite others to their current
+    /// session. This can only be used if the user is in a joinable session.
+    ///
+    public static Request<Models.InvitePanelResultInfo> LaunchInvitePanel(InviteOptions options)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request<Models.InvitePanelResultInfo>(CAPI.ovr_GroupPresence_LaunchInvitePanel((IntPtr)options));
+      }
+
+      return null;
+    }
+
+    /// Launch an error dialog with predefined messages for common multiplayer
+    /// errors.
+    ///
+    public static Request LaunchMultiplayerErrorDialog(MultiplayerErrorOptions options)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request(CAPI.ovr_GroupPresence_LaunchMultiplayerErrorDialog((IntPtr)options));
+      }
+
+      return null;
+    }
+
+    /// Launch the dialog which will allow the user to rejoin a previous
+    /// lobby/match. Either the lobby_session_id or the match_session_id, or both,
+    /// must be populated.
+    ///
+    public static Request<Models.RejoinDialogResult> LaunchRejoinDialog(string lobby_session_id, string match_session_id, string destination_api_name)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request<Models.RejoinDialogResult>(CAPI.ovr_GroupPresence_LaunchRejoinDialog(lobby_session_id, match_session_id, destination_api_name));
+      }
+
+      return null;
+    }
+
+    /// Launch the panel which displays the current users in the roster. Users with
+    /// the same lobby and match session id as part of their presence will show up
+    /// here.
+    ///
+    public static Request LaunchRosterPanel(RosterOptions options)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request(CAPI.ovr_GroupPresence_LaunchRosterPanel((IntPtr)options));
+      }
+
+      return null;
+    }
+
+    /// Set rich presence for running app
+    ///
+    public static Request Set(GroupPresenceOptions groupPresenceOptions)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request(CAPI.ovr_GroupPresence_Set((IntPtr)groupPresenceOptions));
+      }
+
+      return null;
+    }
+
+    /// Replaces the user's current destination for the provided one. All other
+    /// existing rich presence parameters will remain the same.
+    ///
+    public static Request SetDestination(string api_name)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request(CAPI.ovr_GroupPresence_SetDestination(api_name));
+      }
+
+      return null;
+    }
+
+    /// Set if the current user's destination and session is joinable while keeping
+    /// the other rich presence parameters the same. If the destination or session
+    /// ids of the user is not set, they cannot be set to joinable.
+    ///
+    public static Request SetIsJoinable(bool is_joinable)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request(CAPI.ovr_GroupPresence_SetIsJoinable(is_joinable));
+      }
+
+      return null;
+    }
+
+    /// Replaces the user's current lobby session id for the provided one. All
+    /// other existing rich presence parameters will remain the same.
+    ///
+    public static Request SetLobbySession(string id)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request(CAPI.ovr_GroupPresence_SetLobbySession(id));
+      }
+
+      return null;
+    }
+
+    /// Replaces the user's current match session id for the provided one. All
+    /// other existing rich presence parameters will remain the same.
+    ///
+    public static Request SetMatchSession(string id)
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request(CAPI.ovr_GroupPresence_SetMatchSession(id));
+      }
+
+      return null;
+    }
+
+    /// Sent when the user is finished using the invite panel to send out
+    /// invitations. Contains a list of invitees.
+    ///
+    public static void SetInvitationsSentNotificationCallback(Message<Models.LaunchInvitePanelFlowResult>.Callback callback)
+    {
+      Callback.SetNotificationCallback(
+        Message.MessageType.Notification_GroupPresence_InvitationsSent,
+        callback
+      );
+    }
+
+    /// Sent when a user has chosen to join the destination/lobby/match. Read all
+    /// the fields to figure out where the user wants to go and take the
+    /// appropriate actions to bring them there. If the user is unable to go there,
+    /// provide adequate messaging to the user on why they cannot go there. These
+    /// notifications should be responded to immediately.
+    ///
+    public static void SetJoinIntentReceivedNotificationCallback(Message<Models.GroupPresenceJoinIntent>.Callback callback)
+    {
+      Callback.SetNotificationCallback(
+        Message.MessageType.Notification_GroupPresence_JoinIntentReceived,
+        callback
+      );
+    }
+
+    /// Sent when the user has chosen to leave the destination/lobby/match from the
+    /// Oculus menu. Read the specific fields to check the user is currently from
+    /// the destination/lobby/match and take the appropriate actions to remove
+    /// them. Update the user's presence clearing the appropriate fields to
+    /// indicate the user has left.
+    ///
+    public static void SetLeaveIntentReceivedNotificationCallback(Message<Models.GroupPresenceLeaveIntent>.Callback callback)
+    {
+      Callback.SetNotificationCallback(
+        Message.MessageType.Notification_GroupPresence_LeaveIntentReceived,
+        callback
+      );
+    }
+
   }
 
   public static partial class HTTP
@@ -1475,56 +1645,6 @@ namespace Oculus.Platform
 
   public static partial class Livestreaming
   {
-    /// Return the status of the current livestreaming session if there is one.
-    ///
-    public static Request<Models.LivestreamingStatus> GetStatus()
-    {
-      if (Core.IsInitialized())
-      {
-        return new Request<Models.LivestreamingStatus>(CAPI.ovr_Livestreaming_GetStatus());
-      }
-
-      return null;
-    }
-
-    /// Launch the Livestreaming Flow.
-    ///
-    public static Request LaunchLivestreamingFlow()
-    {
-      if (Core.IsInitialized())
-      {
-        return new Request(CAPI.ovr_Livestreaming_LaunchLivestreamingFlow());
-      }
-
-      return null;
-    }
-
-    /// Pauses the livestreaming session if there is one. NOTE: this function is
-    /// safe to call if no session is active.
-    ///
-    public static Request<Models.LivestreamingStatus> PauseStream()
-    {
-      if (Core.IsInitialized())
-      {
-        return new Request<Models.LivestreamingStatus>(CAPI.ovr_Livestreaming_PauseStream());
-      }
-
-      return null;
-    }
-
-    /// Resumes the livestreaming session if there is one. NOTE: this function is
-    /// safe to call if no session is active.
-    ///
-    public static Request<Models.LivestreamingStatus> ResumeStream()
-    {
-      if (Core.IsInitialized())
-      {
-        return new Request<Models.LivestreamingStatus>(CAPI.ovr_Livestreaming_ResumeStream());
-      }
-
-      return null;
-    }
-
     /// Indicates that the livestreaming session has been updated. You can use this
     /// information to throttle your game performance or increase CPU/GPU
     /// performance. Use Message.GetLivestreamingStatus() to extract the updated
@@ -2633,21 +2753,6 @@ namespace Oculus.Platform
       return null;
     }
 
-    /// Launch the profile of the given user. The profile surfaces information
-    /// about the user and supports relevant actions that the viewer may take on
-    /// that user, e.g. sending a friend request.
-    /// \param userID User ID for profile being viewed
-    ///
-    public static Request LaunchProfile(UInt64 userID)
-    {
-      if (Core.IsInitialized())
-      {
-        return new Request(CAPI.ovr_User_LaunchProfile(userID));
-      }
-
-      return null;
-    }
-
   }
 
   public static partial class UserDataStore
@@ -2768,8 +2873,24 @@ namespace Oculus.Platform
 
   public static partial class Voip
   {
+    /// Gets whether the microphone is currently available to the app. This can be
+    /// used to show if the user's voice is able to be heard by other users.
+    ///
+    public static Request<Models.MicrophoneAvailabilityState> GetMicrophoneAvailability()
+    {
+      if (Core.IsInitialized())
+      {
+        return new Request<Models.MicrophoneAvailabilityState>(CAPI.ovr_Voip_GetMicrophoneAvailability());
+      }
+
+      return null;
+    }
+
     /// Sets whether SystemVoip should be suppressed so that this app's Voip can
-    /// use the mic and play incoming Voip audio.
+    /// use the mic and play incoming Voip audio. Once microphone switching
+    /// functionality for the user is released, this function will no longer work.
+    /// You can use get_microphone_availability to see if the user has allowed the
+    /// app access to the microphone.
     ///
     public static Request<Models.SystemVoipState> SetSystemVoipSuppressed(bool suppressed)
     {
@@ -2789,6 +2910,18 @@ namespace Oculus.Platform
     {
       Callback.SetNotificationCallback(
         Message.MessageType.Notification_Voip_ConnectRequest,
+        callback
+      );
+    }
+
+    /// Indicates that the current microphone availability state has been updated.
+    /// Use Voip.GetMicrophoneAvailability() to extract the microphone availability
+    /// state.
+    ///
+    public static void SetMicrophoneAvailabilityStateUpdateNotificationCallback(Message<string>.Callback callback)
+    {
+      Callback.SetNotificationCallback(
+        Message.MessageType.Notification_Voip_MicrophoneAvailabilityStateUpdate,
         callback
       );
     }
@@ -2825,6 +2958,16 @@ namespace Oculus.Platform
 
   public static partial class Vrcamera
   {
+    /// Get vr camera related webrtc data channel messages for update.
+    ///
+    public static void SetGetDataChannelMessageUpdateNotificationCallback(Message<string>.Callback callback)
+    {
+      Callback.SetNotificationCallback(
+        Message.MessageType.Notification_Vrcamera_GetDataChannelMessageUpdate,
+        callback
+      );
+    }
+
     /// Get surface and update action from platform webrtc for update.
     ///
     public static void SetGetSurfaceUpdateNotificationCallback(Message<string>.Callback callback)

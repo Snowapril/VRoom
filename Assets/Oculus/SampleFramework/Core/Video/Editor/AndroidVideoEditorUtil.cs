@@ -19,7 +19,7 @@ public class AndroidVideoEditorUtil
     private static readonly string audio360PluginPath = "Assets/Oculus/SampleFramework/Core/Video/Plugins/Android/Audio360/audio360.aar";
     private static readonly string audio360Exo29PluginPath = "Assets/Oculus/SampleFramework/Core/Video/Plugins/Android/Audio360/audio360-exo29.aar";
 
-    [MenuItem("Oculus/Video/Enable Native Android Video Player")]
+    [MenuItem("Oculus/Samples/Video/Enable Native Android Video Player")]
     public static void EnableNativeVideoPlayer()
     {
         // rename NativeJavaPlayer.java.DISABLED to NativeJavaPlayer.java
@@ -51,7 +51,7 @@ public class AndroidVideoEditorUtil
         Gradle.Configuration.WriteLines(lines);
     }
 
-    [MenuItem("Oculus/Video/Disable Native Android Video Player")]
+    [MenuItem("Oculus/Samples/Video/Disable Native Android Video Player")]
     public static void DisableNativeVideoPlayer()
     {
         if (File.Exists(videoPlayerFileName))

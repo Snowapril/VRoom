@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
+
 
 //Must have Components to use this script
 [RequireComponent (typeof(CharacterController))]
-public class Player : MonoBehaviour
+public class Player : MonoBehaviourPun
 {
     #region Serialize Protected Variable
     

@@ -2,6 +2,7 @@
   "dependencies": {
     "com.de-panther.webxr": "https://github.com/De-Panther/unity-webxr-export.git?path=/Packages/webxr",
     "com.de-panther.webxr-interactions": "https://github.com/De-Panther/unity-webxr-export.git?path=/Packages/webxr-interactions",
+    "com.unity.animation.rigging": "1.0.3",
     "com.unity.collab-proxy": "1.5.7",
     "com.unity.ide.rider": "2.0.7",
     "com.unity.ide.visualstudio": "2.0.9",

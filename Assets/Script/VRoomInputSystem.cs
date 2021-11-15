@@ -5,6 +5,7 @@ using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine;
 using WebXR;
 
+
 public class VRoomInputSystem : MonoBehaviour
 {
     private static WebXRController rightHandController, leftHandController;

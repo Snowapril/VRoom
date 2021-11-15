@@ -222,7 +222,67 @@ public class OVRManifestPreprocessor
                 modifyIfFound,
                 "value", projectConfig.handTrackingFrequency.ToString());
 
+            // Add system keyboard tag
+            AddOrRemoveTag(doc,
+                androidNamepsaceURI,
+                "/manifest",
+                "uses-feature",
+                "oculus.software.overlay_keyboard",
+                projectConfig.requiresSystemKeyboard,
+                modifyIfFound,
+                "required", "false");
 
+            // Add experimental features enabled tag
+            AddOrRemoveTag(doc,
+                androidNamepsaceURI,
+                "/manifest",
+                "uses-feature",
+                "com.oculus.experimental.enabled",
+                projectConfig.experimentalFeaturesEnabled,
+                modifyIfFound,
+                "required", "true");
+
+            // Add passthrough feature flag
+            AddOrRemoveTag(doc,
+                androidNamepsaceURI,
+                "/manifest",
+                "uses-feature",
+                "com.oculus.feature.PASSTHROUGH",
+                projectConfig.insightPassthroughEnabled,
+                modifyIfFound,
+                "required", "true");
+
+            // make sure android label and icon are set in the manifest
+            AddOrRemoveTag(doc,
+                androidNamepsaceURI,
+                "/manifest",
+                "application",
+                null,
+                true,
+                modifyIfFound,
+                "label", "@string/app_name",
+                "icon", "@mipmap/app_icon",
+                // Disable allowBackup in manifest and add Android NSC XML file
+                "allowBackup", projectConfig.disableBackups ? "false" : "true",
+                "networkSecurityConfig", projectConfig.enableNSCConfig && enableSecurity ? "@xml/network_sec_config" : null
+                );
+
+
+			// Add use system splash screen tag
+			if (projectConfig.systemSplashScreen != null)
+			{
+				AddOrRemoveTag(doc,
+					androidNamepsaceURI,
+					"/manifest/application",
+					"meta-data",
+					"com.oculus.ossplash",
+					true,
+					modifyIfFound,
+					"value", "true");
+			}
+
+// The following manifest entries are all handled through Oculus XR SDK Plugin
+#if !PRIORITIZE_OCULUS_XR_SETTINGS
             // Add focus aware tag if this app is targeting Quest Family
             AddOrRemoveTag(doc,
                 androidNamepsaceURI,
@@ -231,7 +291,7 @@ public class OVRManifestPreprocessor
                 "com.oculus.vr.focusaware",
                 OVRDeviceSelector.isTargetDeviceQuestFamily,
                 modifyIfFound,
-                "value", projectConfig.focusAware ? "true" : "false");
+                "value", "true");
 
             // Add support devices manifest according to the target devices
             if (OVRDeviceSelector.isTargetDeviceQuestFamily)
@@ -263,29 +323,6 @@ public class OVRManifestPreprocessor
                     "value", targetDeviceValue);
             }
 
-            // Add system keyboard tag
-            AddOrRemoveTag(doc,
-                androidNamepsaceURI,
-                "/manifest",
-                "uses-feature",
-                "oculus.software.overlay_keyboard",
-                projectConfig.focusAware && projectConfig.requiresSystemKeyboard,
-                modifyIfFound,
-                "required", "false");
-
-            // Add use system splash screen tag
-            if (projectConfig.systemSplashScreen != null)
-            {
-                AddOrRemoveTag(doc,
-                    androidNamepsaceURI,
-                    "/manifest/application",
-                    "meta-data",
-                    "com.oculus.ossplash",
-                    true,
-                    modifyIfFound,
-                    "value", "true");
-            }
-
             // make sure the VR Mode tag is set in the manifest
             AddOrRemoveTag(doc,
                 androidNamepsaceURI,
@@ -304,23 +341,9 @@ public class OVRManifestPreprocessor
                 "com.oculus.intent.category.VR",
                 required: true,
                 modifyIfFound: true);
+#endif
 
-            // make sure android label and icon are set in the manifest
-            AddOrRemoveTag(doc,
-                androidNamepsaceURI,
-                "/manifest",
-                "application",
-                null,
-                true,
-                modifyIfFound,
-                "label", "@string/app_name",
-                "icon", "@mipmap/app_icon",
-                // Disable allowBackup in manifest and add Android NSC XML file
-                "allowBackup", projectConfig.disableBackups ? "false" : "true",
-                "networkSecurityConfig", projectConfig.enableNSCConfig && enableSecurity ? "@xml/network_sec_config" : null
-                );
-
-            doc.Save(destinationFile);
+			doc.Save(destinationFile);
         }
         catch (System.Exception e)
         {
