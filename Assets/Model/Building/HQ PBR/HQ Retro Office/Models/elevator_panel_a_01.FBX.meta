@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 7e85aab650d38584a85ebe9368056109
+timeCreated: 1500847788
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: key1
+    100004: key2
+    100006: key3
+    100008: key4
+    100010: key5
+    100012: key6
+    100014: key7
+    100016: key8
+    100018: key9
+    100020: m10_elevator_panel
+    100022: m10_lib_elevator_keypad_screen_a_01
+    400000: //RootNode
+    400002: key1
+    400004: key2
+    400006: key3
+    400008: key4
+    400010: key5
+    400012: key6
+    400014: key7
+    400016: key8
+    400018: key9
+    400020: m10_elevator_panel
+    400022: m10_lib_elevator_keypad_screen_a_01
+    2300000: key1
+    2300002: key2
+    2300004: key3
+    2300006: key4
+    2300008: key5
+    2300010: key6
+    2300012: key7
+    2300014: key8
+    2300016: key9
+    2300018: m10_elevator_panel
+    2300020: m10_lib_elevator_keypad_screen_a_01
+    2300022: //RootNode
+    3300000: key1
+    3300002: key2
+    3300004: key3
+    3300006: key4
+    3300008: key5
+    3300010: key6
+    3300012: key7
+    3300014: key8
+    3300016: key9
+    3300018: m10_elevator_panel
+    3300020: m10_lib_elevator_keypad_screen_a_01
+    3300022: //RootNode
+    4300000: m10_elevator_panel
+    4300002: key3
+    4300004: key2
+    4300006: key1
+    4300008: key6
+    4300010: key5
+    4300012: key4
+    4300014: key9
+    4300016: key8
+    4300018: key7
+    4300020: m10_lib_elevator_keypad_screen_a_01
+    4300022: elevator_panel_a_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

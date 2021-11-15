@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: adb8ec762b427bc4689ec522bcf01307
+timeCreated: 1499206642
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: projector_base_a_01
+    100002: projector_glow_card
+    100004: //RootNode
+    100006: projector_reel_wheel_01
+    100008: projector_reel_wheel_02
+    100010: Projector Reel Group
+    100012: album_a_01
+    100014: album_b_01
+    100016: storage_box_albums_a_01
+    400000: projector_base_a_01
+    400002: projector_glow_card
+    400004: //RootNode
+    400006: projector_reel_wheel_01
+    400008: projector_reel_wheel_02
+    400010: Projector Reel Group
+    400012: album_a_01
+    400014: album_b_01
+    400016: storage_box_albums_a_01
+    2300000: projector_base_a_01
+    2300002: projector_glow_card
+    2300004: projector_reel_wheel_01
+    2300006: projector_reel_wheel_02
+    2300008: album_a_01
+    2300010: album_b_01
+    2300012: storage_box_albums_a_01
+    3300000: projector_base_a_01
+    3300002: projector_glow_card
+    3300004: projector_reel_wheel_01
+    3300006: projector_reel_wheel_02
+    3300008: album_a_01
+    3300010: album_b_01
+    3300012: storage_box_albums_a_01
+    4300000: projector_base_a_01
+    4300002: projector_glow_card
+    4300004: projector_reel_wheel_01
+    4300006: projector_reel_wheel_02
+    4300008: album_b_01
+    4300010: storage_box_albums_a_01
+    4300012: album_a_01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

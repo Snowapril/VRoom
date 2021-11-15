@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 738f0fcc590a7604fa29255f227e2083
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PeaceLily_Flower01
+    100004: PeaceLily_Flower02
+    100006: PeaceLily_Leaf01
+    100008: PeaceLily_Leaf02
+    100010: PeaceLily_Leaf03
+    100012: Object001
+    100014: Object002
+    100016: PeaceLily_Flower03
+    100018: peace_lily_flower_01
+    100020: peace_lily_flower_02
+    100022: peace_lily_flower_03
+    100024: peace_lily_leaf_01
+    100026: peace_lily_leaf_02
+    100028: peace_lily_leaf_03
+    400000: //RootNode
+    400002: PeaceLily_Flower01
+    400004: PeaceLily_Flower02
+    400006: PeaceLily_Leaf01
+    400008: PeaceLily_Leaf02
+    400010: PeaceLily_Leaf03
+    400012: Object001
+    400014: Object002
+    400016: PeaceLily_Flower03
+    400018: peace_lily_flower_01
+    400020: peace_lily_flower_02
+    400022: peace_lily_flower_03
+    400024: peace_lily_leaf_01
+    400026: peace_lily_leaf_02
+    400028: peace_lily_leaf_03
+    2300000: PeaceLily_Flower01
+    2300002: PeaceLily_Flower02
+    2300004: PeaceLily_Leaf01
+    2300006: PeaceLily_Leaf02
+    2300008: PeaceLily_Leaf03
+    2300010: Object001
+    2300012: Object002
+    2300014: PeaceLily_Flower03
+    2300016: peace_lily_flower_01
+    2300018: peace_lily_flower_02
+    2300020: peace_lily_flower_03
+    2300022: peace_lily_leaf_01
+    2300024: peace_lily_leaf_02
+    2300026: peace_lily_leaf_03
+    3300000: PeaceLily_Flower01
+    3300002: PeaceLily_Flower02
+    3300004: PeaceLily_Leaf01
+    3300006: PeaceLily_Leaf02
+    3300008: PeaceLily_Leaf03
+    3300010: Object001
+    3300012: Object002
+    3300014: PeaceLily_Flower03
+    3300016: peace_lily_flower_01
+    3300018: peace_lily_flower_02
+    3300020: peace_lily_flower_03
+    3300022: peace_lily_leaf_01
+    3300024: peace_lily_leaf_02
+    3300026: peace_lily_leaf_03
+    4300000: PeaceLily_Flower01
+    4300002: PeaceLily_Leaf01
+    4300004: PeaceLily_Leaf02
+    4300006: PeaceLily_Leaf03
+    4300008: PeaceLily_Flower02
+    4300010: Object001
+    4300012: Object002
+    4300014: PeaceLily_Flower03
+    4300016: peace_lily_leaf_03
+    4300018: peace_lily_flower_02
+    4300020: peace_lily_leaf_01
+    4300022: peace_lily_flower_03
+    4300024: peace_lily_leaf_02
+    4300026: peace_lily_flower_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 45
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

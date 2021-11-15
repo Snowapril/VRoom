@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: e6ce4ff4f030b194ab36fb391e044b4d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: art_1
+    100004: art_2
+    100006: art_3
+    100008: art_4
+    100010: art_5
+    100012: art_6
+    100014: Frame_A_1
+    100016: Frame_A_2
+    100018: Frame_A_3
+    100020: Frame_A_4
+    100022: Frame_A_5
+    100024: Frame_A_6
+    100026: Frame_B_1
+    100028: Frame_B_2
+    100030: Frame_B_3
+    100032: Frame_B_4
+    100034: Frame_B_5
+    100036: Frame_B_6
+    100038: Frame_C_1
+    100040: Frame_C_2
+    100042: Frame_C_3
+    100044: Frame_C_4
+    100046: Frame_C_5
+    100048: Frame_C_6
+    400000: //RootNode
+    400002: art_1
+    400004: art_2
+    400006: art_3
+    400008: art_4
+    400010: art_5
+    400012: art_6
+    400014: Frame_A_1
+    400016: Frame_A_2
+    400018: Frame_A_3
+    400020: Frame_A_4
+    400022: Frame_A_5
+    400024: Frame_A_6
+    400026: Frame_B_1
+    400028: Frame_B_2
+    400030: Frame_B_3
+    400032: Frame_B_4
+    400034: Frame_B_5
+    400036: Frame_B_6
+    400038: Frame_C_1
+    400040: Frame_C_2
+    400042: Frame_C_3
+    400044: Frame_C_4
+    400046: Frame_C_5
+    400048: Frame_C_6
+    2100000: Frames
+    2100002: art_6
+    2100004: art_back
+    2100006: art_2
+    2100008: art_4
+    2100010: art_5
+    2100012: art_3
+    2100014: art_1
+    2300000: art_1
+    2300002: art_2
+    2300004: art_3
+    2300006: art_4
+    2300008: art_5
+    2300010: art_6
+    2300012: Frame_A_1
+    2300014: Frame_A_2
+    2300016: Frame_A_3
+    2300018: Frame_A_4
+    2300020: Frame_A_5
+    2300022: Frame_A_6
+    2300024: Frame_B_1
+    2300026: Frame_B_2
+    2300028: Frame_B_3
+    2300030: Frame_B_4
+    2300032: Frame_B_5
+    2300034: Frame_B_6
+    2300036: Frame_C_1
+    2300038: Frame_C_2
+    2300040: Frame_C_3
+    2300042: Frame_C_4
+    2300044: Frame_C_5
+    2300046: Frame_C_6
+    3300000: art_1
+    3300002: art_2
+    3300004: art_3
+    3300006: art_4
+    3300008: art_5
+    3300010: art_6
+    3300012: Frame_A_1
+    3300014: Frame_A_2
+    3300016: Frame_A_3
+    3300018: Frame_A_4
+    3300020: Frame_A_5
+    3300022: Frame_A_6
+    3300024: Frame_B_1
+    3300026: Frame_B_2
+    3300028: Frame_B_3
+    3300030: Frame_B_4
+    3300032: Frame_B_5
+    3300034: Frame_B_6
+    3300036: Frame_C_1
+    3300038: Frame_C_2
+    3300040: Frame_C_3
+    3300042: Frame_C_4
+    3300044: Frame_C_5
+    3300046: Frame_C_6
+    4300000: Frame_A_6
+    4300002: Frame_A_4
+    4300004: Frame_A_5
+    4300006: Frame_A_1
+    4300008: Frame_C_1
+    4300010: Frame_C_5
+    4300012: Frame_C_4
+    4300014: Frame_C_2
+    4300016: Frame_C_6
+    4300018: Frame_C_3
+    4300020: Frame_B_3
+    4300022: Frame_B_6
+    4300024: Frame_B_2
+    4300026: Frame_B_4
+    4300028: Frame_B_5
+    4300030: Frame_B_1
+    4300032: Frame_A_2
+    4300034: Frame_A_3
+    4300036: art_6
+    4300038: art_2
+    4300040: art_4
+    4300042: art_5
+    4300044: art_3
+    4300046: art_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frames
+    second: {fileID: 2100000, guid: 19f7c9944449d544a9570553d001dac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art_1
+    second: {fileID: 2100000, guid: 18c14420b1c374242982d70e49824b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art_2
+    second: {fileID: 2100000, guid: 5b053a1c04a02e94ebcca310efca1440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art_3
+    second: {fileID: 2100000, guid: 812822a35156f0f4a9134ab5c0029bfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art_4
+    second: {fileID: 2100000, guid: 429b38c83ed5e4b44b5235432584f24b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art_5
+    second: {fileID: 2100000, guid: 207e77e314f72494cb271041ff5ec8ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art_6
+    second: {fileID: 2100000, guid: 3b87482592b25694c883bb3572043d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art_back
+    second: {fileID: 2100000, guid: 50b88d331352ddd42bdf6e85848c4665, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

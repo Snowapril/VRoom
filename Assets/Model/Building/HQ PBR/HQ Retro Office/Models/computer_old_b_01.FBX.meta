@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 3d4def281c227a24d810f0d8166d6271
+timeCreated: 1460938757
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: computer_old_a_01_screen
+    100002: //RootNode
+    100004: computer_old_b_01_monitor
+    100006: computer_shell_a_01
+    100008: monitor_swivel_mount_a_01
+    100010: PhysCamera001.Target
+    100012: computer_old_b_01_housing
+    100014: computer_old_b_01_screen
+    100016: old_computer_b_01
+    100018: old_computer_keyboard_a_01
+    100020: computer_old_b_01_keyboard
+    100022: computer_old_b_01
+    400000: computer_old_a_01_screen
+    400002: //RootNode
+    400004: computer_old_b_01_monitor
+    400006: computer_shell_a_01
+    400008: monitor_swivel_mount_a_01
+    400010: PhysCamera001.Target
+    400012: computer_old_b_01_housing
+    400014: computer_old_b_01_screen
+    400016: old_computer_b_01
+    400018: old_computer_keyboard_a_01
+    400020: computer_old_b_01_keyboard
+    400022: computer_old_b_01
+    2300000: computer_old_a_01_screen
+    2300002: computer_old_b_01_monitor
+    2300004: computer_shell_a_01
+    2300006: monitor_swivel_mount_a_01
+    2300008: computer_old_b_01_housing
+    2300010: computer_old_b_01_screen
+    2300012: old_computer_b_01
+    2300014: old_computer_keyboard_a_01
+    2300016: computer_old_b_01_keyboard
+    2300018: computer_old_b_01
+    3300000: computer_old_a_01_screen
+    3300002: computer_old_b_01_monitor
+    3300004: computer_shell_a_01
+    3300006: monitor_swivel_mount_a_01
+    3300008: computer_old_b_01_housing
+    3300010: computer_old_b_01_screen
+    3300012: old_computer_b_01
+    3300014: old_computer_keyboard_a_01
+    3300016: computer_old_b_01_keyboard
+    3300018: computer_old_b_01
+    4300000: computer_old_a_01_screen
+    4300002: monitor_swivel_mount_a_01
+    4300004: computer_shell_a_01
+    4300006: computer_old_b_01_monitor
+    4300008: computer_old_b_01_screen
+    4300010: computer_old_b_01_housing
+    4300012: old_computer_b_01
+    4300014: old_computer_keyboard_a_01
+    4300016: computer_old_b_01_keyboard
+    4300018: computer_old_b_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

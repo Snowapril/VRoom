@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 5f4801239f7dac44fb30008cdef30c42
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SM_entry
+    100004: SM_entry.001
+    100006: SM_fountain_1
+    100008: SM_frame_1
+    100010: SM_glasses
+    100012: SM_logo
+    100014: SM_outside_tubes
+    100016: SM_podium
+    100018: SM_roof
+    100020: SM_small_roof
+    100022: SM_small_windows
+    100024: SM_wires_1
+    100026: SM_circle_door
+    100028: SM_circle_door_1
+    100030: SM_door
+    100032: SM_door_plane
+    100034: SM_entry_2
+    100036: SM_booth
+    100038: SM_booth_door
+    100040: SM_ceiling_1
+    100042: SM_ceiling_2
+    100044: SM_floor_2
+    100046: SM_gallery_wall_1
+    100048: SM_gallery_wall_2
+    100050: SM_lift_shafts
+    100052: SM_stairs
+    100054: SM_stairs_border
+    400000: //RootNode
+    400002: SM_entry
+    400004: SM_entry.001
+    400006: SM_fountain_1
+    400008: SM_frame_1
+    400010: SM_glasses
+    400012: SM_logo
+    400014: SM_outside_tubes
+    400016: SM_podium
+    400018: SM_roof
+    400020: SM_small_roof
+    400022: SM_small_windows
+    400024: SM_wires_1
+    400026: SM_circle_door
+    400028: SM_circle_door_1
+    400030: SM_door
+    400032: SM_door_plane
+    400034: SM_entry_2
+    400036: SM_booth
+    400038: SM_booth_door
+    400040: SM_ceiling_1
+    400042: SM_ceiling_2
+    400044: SM_floor_2
+    400046: SM_gallery_wall_1
+    400048: SM_gallery_wall_2
+    400050: SM_lift_shafts
+    400052: SM_stairs
+    400054: SM_stairs_border
+    2100000: M_chrome
+    2100002: M_glass
+    2100004: M_logo
+    2100006: M_concrete
+    2100008: M_ground
+    2100010: M_grass
+    2100012: M_floor
+    2300000: SM_entry
+    2300002: SM_entry.001
+    2300004: SM_fountain_1
+    2300006: SM_frame_1
+    2300008: SM_glasses
+    2300010: SM_logo
+    2300012: SM_outside_tubes
+    2300014: SM_podium
+    2300016: SM_roof
+    2300018: SM_small_roof
+    2300020: SM_small_windows
+    2300022: SM_wires_1
+    2300024: SM_circle_door
+    2300026: SM_circle_door_1
+    2300028: SM_door
+    2300030: SM_door_plane
+    2300032: SM_entry_2
+    2300034: SM_booth
+    2300036: SM_booth_door
+    2300038: SM_ceiling_1
+    2300040: SM_ceiling_2
+    2300042: SM_floor_2
+    2300044: SM_gallery_wall_1
+    2300046: SM_gallery_wall_2
+    2300048: SM_lift_shafts
+    2300050: SM_stairs
+    2300052: SM_stairs_border
+    3300000: SM_entry
+    3300002: SM_entry.001
+    3300004: SM_fountain_1
+    3300006: SM_frame_1
+    3300008: SM_glasses
+    3300010: SM_logo
+    3300012: SM_outside_tubes
+    3300014: SM_podium
+    3300016: SM_roof
+    3300018: SM_small_roof
+    3300020: SM_small_windows
+    3300022: SM_wires_1
+    3300024: SM_circle_door
+    3300026: SM_circle_door_1
+    3300028: SM_door
+    3300030: SM_door_plane
+    3300032: SM_entry_2
+    3300034: SM_booth
+    3300036: SM_booth_door
+    3300038: SM_ceiling_1
+    3300040: SM_ceiling_2
+    3300042: SM_floor_2
+    3300044: SM_gallery_wall_1
+    3300046: SM_gallery_wall_2
+    3300048: SM_lift_shafts
+    3300050: SM_stairs
+    3300052: SM_stairs_border
+    4300000: SM_entry.001
+    4300002: SM_glasses
+    4300004: SM_small_windows
+    4300006: SM_fountain_1
+    4300008: SM_roof
+    4300010: SM_logo
+    4300012: SM_frame_1
+    4300014: SM_entry
+    4300016: SM_podium
+    4300018: SM_small_roof
+    4300020: SM_wires_1
+    4300022: SM_outside_tubes
+    4300024: SM_circle_door_1
+    4300026: SM_circle_door
+    4300028: SM_door
+    4300030: SM_door_plane
+    4300032: SM_entry_2
+    4300034: SM_lift_shafts
+    4300036: SM_stairs_border
+    4300038: SM_booth_door
+    4300040: SM_booth
+    4300042: SM_gallery_wall_1
+    4300044: SM_ceiling_1
+    4300046: SM_ceiling_2
+    4300048: SM_gallery_wall_2
+    4300050: SM_stairs
+    4300052: SM_floor_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_border
+    second: {fileID: 2100000, guid: 5e3a17376a1bf8340af1a5567703b98d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_chrome
+    second: {fileID: 2100000, guid: 4274eb68b90b8c247b97782f6a65110e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_concrete
+    second: {fileID: 2100000, guid: 4b0b4ab4649173b408331e470653d686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_door_plane
+    second: {fileID: 2100000, guid: 8936bbaeee7403844b192f302f6daa3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_floor
+    second: {fileID: 2100000, guid: ed81fd52355d06d468aadb0a3b7d3c75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_glass
+    second: {fileID: 2100000, guid: 2cacce87ed96ca94c901baac35d5ce1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_grass
+    second: {fileID: 2100000, guid: a540107254a3d504ca306382ff541e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ground
+    second: {fileID: 2100000, guid: 1d319bef3292aeb408f39e3c483f9e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_logo
+    second: {fileID: 2100000, guid: 448636da8d2c786448f117484113d82e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_wall
+    second: {fileID: 2100000, guid: fa12383ebc236504fa3cec59b73c6ae2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

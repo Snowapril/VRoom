@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: b626a2fd3a10b6e45b9f7d419b8be31d
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: OldComputer_Keyboard
+    100004: OldComputer_Mainframe
+    100006: computer_old_a_01_housing
+    100008: computer_old_a_01_monitor
+    100010: computer_old_a_01_screen
+    100012: computer_old_a_01_keyboard
+    400000: //RootNode
+    400002: OldComputer_Keyboard
+    400004: OldComputer_Mainframe
+    400006: computer_old_a_01_housing
+    400008: computer_old_a_01_monitor
+    400010: computer_old_a_01_screen
+    400012: computer_old_a_01_keyboard
+    2300000: OldComputer_Keyboard
+    2300002: OldComputer_Mainframe
+    2300004: computer_old_a_01_housing
+    2300006: computer_old_a_01_monitor
+    2300008: computer_old_a_01_screen
+    2300010: computer_old_a_01_keyboard
+    3300000: OldComputer_Keyboard
+    3300002: OldComputer_Mainframe
+    3300004: computer_old_a_01_housing
+    3300006: computer_old_a_01_monitor
+    3300008: computer_old_a_01_screen
+    3300010: computer_old_a_01_keyboard
+    4300000: OldComputer_Mainframe
+    4300002: OldComputer_Keyboard
+    4300004: computer_old_a_01_screen
+    4300006: computer_old_a_01_housing
+    4300008: computer_old_a_01_monitor
+    4300010: computer_old_a_01_keyboard
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 60
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

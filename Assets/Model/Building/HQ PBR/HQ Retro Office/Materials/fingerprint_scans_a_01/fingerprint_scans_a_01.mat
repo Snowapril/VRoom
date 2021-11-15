@@ -1,0 +1,430 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fingerprint_scans_a_01
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _AO2MAPUV_UV1 _BUMPMODE_PARALLAX _DECALTEXUV_UV0 _DETAILMODE_MUL
+    _DISSOLVETEXUV_UV0 _EMISSION _EMISSION_ON _INCANDESCENCEMAPUV_UV0 _LIGHTMAPPING_DYNAMIC_LIGHTMAPS
+    _LIGHTMAPPING_REALTIME _NORMALMAP _RIMTEXUV_UV0 _UVSEC_UV0
+  m_LightmapFlags: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 92de4d29266d2a14c92f35ae6f3f0fa8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 4a452de9ee7747749a83359170df4525, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DecalTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 92de4d29266d2a14c92f35ae6f3f0fa8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecTex
+        second:
+          m_Texture: {fileID: 2800000, guid: c2018e3aad749414aa4d45683d24c15c, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RimTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMaterialMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 2b77d5cb601375f4ba50c6194c126e59, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _TeamColorMaskMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _IncandescenceMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DissolveTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Ao2Map
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Illum
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5
+      data:
+        first:
+          name: _AlphaTestRef
+        second: 0.5
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: 0.961
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _Parallax
+        second: 0.02
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Emission
+        second: 1
+      data:
+        first:
+          name: _Lightmapping
+        second: 1
+      data:
+        first:
+          name: _Dissolve
+        second: 0
+      data:
+        first:
+          name: _Roughness
+        second: 1
+      data:
+        first:
+          name: _Specularity
+        second: 1
+      data:
+        first:
+          name: _ParallaxT
+        second: 0
+      data:
+        first:
+          name: _BumpMode
+        second: 0
+      data:
+        first:
+          name: _MinSamples
+        second: 4
+      data:
+        first:
+          name: _MaxSamples
+        second: 20
+      data:
+        first:
+          name: _DetailT
+        second: 0
+      data:
+        first:
+          name: _DetailMode
+        second: 0
+      data:
+        first:
+          name: _TeamColor
+        second: 0
+      data:
+        first:
+          name: _Decal
+        second: 0
+      data:
+        first:
+          name: _DecalSpecularity
+        second: 1
+      data:
+        first:
+          name: _IncandescenceMapUV
+        second: 0
+      data:
+        first:
+          name: _EmissionWeightUI
+        second: 1
+      data:
+        first:
+          name: _EmissionGainUI
+        second: 0
+      data:
+        first:
+          name: _Rim
+        second: 0
+      data:
+        first:
+          name: _RimTexUV
+        second: 0
+      data:
+        first:
+          name: _RimWeightUI
+        second: 0
+      data:
+        first:
+          name: _RimGainUI
+        second: 0
+      data:
+        first:
+          name: _RimBias
+        second: 0
+      data:
+        first:
+          name: _RimPower
+        second: 4
+      data:
+        first:
+          name: _DissolveTexUV
+        second: 0
+      data:
+        first:
+          name: _DissolveCutoff
+        second: 0
+      data:
+        first:
+          name: _DissolveGlowWeightUI
+        second: 0
+      data:
+        first:
+          name: _DissolveGlowGainUI
+        second: 0
+      data:
+        first:
+          name: _DissolveEdgeWidth
+        second: 0.05
+      data:
+        first:
+          name: _DecalVertexInfluence
+        second: 0
+      data:
+        first:
+          name: _AO2
+        second: 0
+      data:
+        first:
+          name: _Ao2MapUV
+        second: 1
+      data:
+        first:
+          name: _DecalTexUV
+        second: 0
+      data:
+        first:
+          name: _DecalWeight
+        second: 1
+      data:
+        first:
+          name: _SHLightingScale
+        second: 1
+      data:
+        first:
+          name: _VirtualSpecRange
+        second: 20
+      data:
+        first:
+          name: _VirtualShininess
+        second: 0.078125
+      data:
+        first:
+          name: _ReflIntensity
+        second: 0.1
+      data:
+        first:
+          name: _ReflScale
+        second: 0.07
+      data:
+        first:
+          name: _EmissionLM
+        second: 5
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _TeamColor0
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _TeamColor1
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _TeamColor2
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _TeamColor3
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _DecalColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _EmissionTintUI
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _IncandescenceMapVelocity
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _RimTintUI
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _RimTexVelocity
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _DissolveTintUI
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _DissolveColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _VirtualSpecColor
+        second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      data:
+        first:
+          name: _VirtualSpecTiling
+        second: {r: 1, g: 1, b: 0, a: 0}
+      data:
+        first:
+          name: _VirtualSpecOffset
+        second: {r: 0, g: 1, b: 4, a: 0}
