@@ -61,6 +61,7 @@ var searchData=
   ['transparentdefaultalpha',['TransparentDefaultAlpha',['../class_o_v_r_overlay_canvas.html#a229fdd456fbb697ccaeac9f1d31ae99aa3c8d4640d04667867305402d8af58b74',1,'OVROverlayCanvas']]],
   ['triangles',['TRIANGLES',['../namespace_oculus_1_1_spatializer_1_1_propagation.html#aa261ee4e2154378b0a7f96985d6476afadd3bfee8042d1b85c224f08b42a3fc2e',1,'Oculus::Spatializer::Propagation']]],
   ['trigger',['Trigger',['../class_photon_1_1_pun_1_1_photon_animator_view.html#accc0e58df5f078b7d67ae8ac64c511a0af698f67f5666aff10729d8a1cb1c14d2',1,'Photon::Pun::PhotonAnimatorView']]],
+  ['tutorialrequired',['TutorialRequired',['../namespace_oculus_1_1_platform.html#a9b429e7603e9ed6a66ccb4556fd03c0ba053fa39a5b77b1f09383cf8d184831ea',1,'Oculus::Platform']]],
   ['twinstick',['TWINSTICK',['../class_assets_1_1_oculus_1_1_v_r_1_1_editor_1_1_o_v_r_platform_tool.html#a0baab5b1bd39b96478cb8bce96b15acba2f55c9c409d960cb62835cdbd630e797',1,'Assets::Oculus::VR::Editor::OVRPlatformTool']]],
   ['two',['Two',['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#a25b3640f30308c5d9777e133405d6f3eaaada29daee1d64ed0fe907043855cb7e',1,'Two():&#160;OvrAvatarSDKCAPI.cs'],['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#a5c5269b889ac645883a05205e02318d1aaada29daee1d64ed0fe907043855cb7e',1,'Two():&#160;OvrAvatarSDKCAPI.cs'],['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#a424dcd6730762a80f7a3f3548794708caaada29daee1d64ed0fe907043855cb7e',1,'Two():&#160;OvrAvatarSDKCAPI.cs']]]
 ];

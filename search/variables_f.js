@@ -1,5 +1,12 @@
 var searchData=
 [
+  ['objectinfo',['objectInfo',['../class_object_manipulator.html#afaa2f3ed8c4c53841a1d7229a8f4a338',1,'ObjectManipulator']]],
+  ['objectinfobg',['objectInfoBG',['../class_object_manipulator.html#a9248d8f987f374db7f171ed0e7d9e1df',1,'ObjectManipulator']]],
+  ['objectinstructions',['ObjectInstructions',['../class_grab_object.html#a588343d009634cb81ab455bea1267f95',1,'GrabObject']]],
+  ['objectinstructionslabel',['objectInstructionsLabel',['../class_object_manipulator.html#a1203da599bf718ed7ccc5018e46b63b3',1,'ObjectManipulator']]],
+  ['objectmanipulationtype',['objectManipulationType',['../class_grab_object.html#a45a390bb6a822a402b1a614c4e229edd',1,'GrabObject']]],
+  ['objectname',['ObjectName',['../class_grab_object.html#aeb13209a7f79a81903e55eb916b33b2b',1,'GrabObject']]],
+  ['objectnamelabel',['objectNameLabel',['../class_object_manipulator.html#a287109bfc755e898ec3d2226c00d9d4c',1,'ObjectManipulator']]],
   ['objectstorenderthevideoimage',['objectsToRenderTheVideoImage',['../class_light_shaft_1_1_scripts_1_1_youtube_settings.html#a1dbbabd104b5a2348ed69952a1d13b03',1,'LightShaft::Scripts::YoutubeSettings']]],
   ['objlevelprefix',['objLevelPrefix',['../struct_photon_1_1_pun_1_1_instantiate_parameters.html#a1436c2a6b7728c6ef297a9397234f555',1,'Photon::Pun::InstantiateParameters']]],
   ['observablesearch',['observableSearch',['../class_photon_1_1_pun_1_1_photon_view.html#aa697cbb9c90eb71a01869433c2c3c565',1,'Photon::Pun::PhotonView']]],
@@ -64,7 +71,8 @@ var searchData=
   ['outlinecoloroutofrange',['OutlineColorOutOfRange',['../class_oculus_sample_framework_1_1_grab_manager.html#a287fda0a7c81bae8aefcdf97048f3792',1,'OculusSampleFramework::GrabManager']]],
   ['overlay',['overlay',['../class_start_menu.html#a72f69b7230a14d22eb0a2561354e4aba',1,'StartMenu.overlay()'],['../struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a107ffa8f4241f8cfdef7ea92a1df44ed',1,'OVR.OpenVR.VREvent_Data_t.overlay()']]],
   ['overlayhandle',['overlayHandle',['../struct_o_v_r_1_1_open_v_r_1_1_v_r_event___overlay__t.html#a250b01532d8b38d33d4a6bf3c549de0f',1,'OVR.OpenVR.VREvent_Overlay_t.overlayHandle()'],['../struct_o_v_r_1_1_open_v_r_1_1_v_r_event___editing_camera_surface__t.html#a7fc3c6a30e36210f23b6205122fc4a47',1,'OVR.OpenVR.VREvent_EditingCameraSurface_t.overlayHandle()']]],
-  ['overrideperlayercolorscaleandoffset',['overridePerLayerColorScaleAndOffset',['../class_o_v_r_overlay.html#a041343625eb2e480a803d24be562fafe',1,'OVROverlay']]],
+  ['overlaytype',['overlayType',['../class_o_v_r_passthrough_layer.html#a7d01a4dd0e955d5757513a02797abf7f',1,'OVRPassthroughLayer']]],
+  ['overrideperlayercolorscaleandoffset',['overridePerLayerColorScaleAndOffset',['../class_o_v_r_overlay.html#a041343625eb2e480a803d24be562fafe',1,'OVROverlay.overridePerLayerColorScaleAndOffset()'],['../class_o_v_r_passthrough_layer.html#a7c89b172cddaf66b005e27e0a6c69a8f',1,'OVRPassthroughLayer.overridePerLayerColorScaleAndOffset()']]],
   ['overridetexturerectmatrix',['overrideTextureRectMatrix',['../class_o_v_r_overlay.html#a5997771d7df1c7643a841bf4b3698b9c',1,'OVROverlay']]],
   ['ovra_5fclient_5ftype_5faax',['OVRA_CLIENT_TYPE_AAX',['../class_o_n_s_p_propagation_1_1_client_type.html#a1f95ca1062946127c1c95aa2b3352693',1,'ONSPPropagation::ClientType']]],
   ['ovra_5fclient_5ftype_5ffmod',['OVRA_CLIENT_TYPE_FMOD',['../class_o_n_s_p_propagation_1_1_client_type.html#a106110fdadc50ae785ada3248aaf16f5',1,'ONSPPropagation::ClientType']]],

@@ -16,6 +16,7 @@ var searchData=
   ['boolmonitor',['BoolMonitor',['../class_o_v_r_controller_test_1_1_bool_monitor.html',1,'OVRControllerTest.BoolMonitor'],['../class_o_v_r_hand_test_1_1_bool_monitor.html',1,'OVRHandTest.BoolMonitor']]],
   ['boundarygeometry',['BoundaryGeometry',['../struct_o_v_r_plugin_1_1_boundary_geometry.html',1,'OVRPlugin']]],
   ['boundarytestresult',['BoundaryTestResult',['../struct_o_v_r_plugin_1_1_boundary_test_result.html',1,'OVRPlugin.BoundaryTestResult'],['../struct_o_v_r_boundary_1_1_boundary_test_result.html',1,'OVRBoundary.BoundaryTestResult']]],
+  ['brushcontroller',['BrushController',['../class_brush_controller.html',1,'']]],
   ['bufferedaudiostream',['BufferedAudioStream',['../class_buffered_audio_stream.html',1,'']]],
   ['buildassetbundles',['BuildAssetBundles',['../class_build_asset_bundles.html',1,'']]],
   ['buildassetpackages',['BuildAssetPackages',['../class_build_asset_packages.html',1,'']]],

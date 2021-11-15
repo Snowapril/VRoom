@@ -205,15 +205,16 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a61269d815e18a1d742a6fecd1e64e660"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae92065300ee6e92425f373cadad3a71a"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#ae92065300ee6e92425f373cadad3a71a">PlatformUIConfirmQuit</a> ()</td></tr>
 <tr class="separator:ae92065300ee6e92425f373cadad3a71a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9d1d3cb45cdc2cd377514948b58035c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#af9d1d3cb45cdc2cd377514948b58035c">IsInsightPassthroughInitialized</a> ()</td></tr>
+<tr class="separator:af9d1d3cb45cdc2cd377514948b58035c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d4996a7a66afcc36c3395983fed0f3d"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a7d4996a7a66afcc36c3395983fed0f3d">HasInsightPassthroughInitFailed</a> ()</td></tr>
+<tr class="separator:a7d4996a7a66afcc36c3395983fed0f3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a91d47a8daa59c795cfad9eedff9f7c75"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a91d47a8daa59c795cfad9eedff9f7c75">useRecommendedMSAALevel</a> = true</td></tr>
 <tr class="memdesc:a91d47a8daa59c795cfad9eedff9f7c75"><td class="mdescLeft">&#160;</td><td class="mdescRight">If true, Unity will use the optimal antialiasing level for quality/performance on the current hardware.  <a href="#a91d47a8daa59c795cfad9eedff9f7c75">More...</a><br /></td></tr>
 <tr class="separator:a91d47a8daa59c795cfad9eedff9f7c75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa993e3cd79e7326d2b77bc13f5c3a410"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#aa993e3cd79e7326d2b77bc13f5c3a410">enableAdaptiveResolution</a> = false</td></tr>
-<tr class="memdesc:aa993e3cd79e7326d2b77bc13f5c3a410"><td class="mdescLeft">&#160;</td><td class="mdescRight">If true, dynamic resolution will be enabled  <a href="#aa993e3cd79e7326d2b77bc13f5c3a410">More...</a><br /></td></tr>
-<tr class="separator:aa993e3cd79e7326d2b77bc13f5c3a410"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af76ee674cf7ca538c1985ed989a0717c"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#af76ee674cf7ca538c1985ed989a0717c">minRenderScale</a> = 0.7f</td></tr>
 <tr class="memdesc:af76ee674cf7ca538c1985ed989a0717c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Min RenderScale the app can reach under adaptive resolution mode ( enableAdaptiveResolution = true );  <a href="#af76ee674cf7ca538c1985ed989a0717c">More...</a><br /></td></tr>
 <tr class="separator:af76ee674cf7ca538c1985ed989a0717c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -223,6 +224,9 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a01deb5c51badc73c8c5f17e07212871a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a01deb5c51badc73c8c5f17e07212871a">profilerTcpPort</a> = <a class="el" href="class_o_v_r_system_perf_metrics.html#a1d2a8d42202aafaf55eb9002c0b421e2">OVRSystemPerfMetrics.TcpListeningPort</a></td></tr>
 <tr class="memdesc:a01deb5c51badc73c8c5f17e07212871a"><td class="mdescLeft">&#160;</td><td class="mdescRight">The TCP listening port of <a class="el" href="namespace_oculus.html">Oculus</a> Profiler Service, which will be activated in Debug/Developerment builds When the app is running on editor or device, open "Tools/Oculus/Oculus Profiler Panel" to view the realtime system metrics  <a href="#a01deb5c51badc73c8c5f17e07212871a">More...</a><br /></td></tr>
 <tr class="separator:a01deb5c51badc73c8c5f17e07212871a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10fd7bd957490b396fcbd41f901917e0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a10fd7bd957490b396fcbd41f901917e0">isInsightPassthroughEnabled</a> = false</td></tr>
+<tr class="memdesc:a10fd7bd957490b396fcbd41f901917e0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specify if Insight Passthrough should be enabled. Passthrough layers can only be used if passthrough is enabled.  <a href="#a10fd7bd957490b396fcbd41f901917e0">More...</a><br /></td></tr>
+<tr class="separator:a10fd7bd957490b396fcbd41f901917e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8afb96532a67322a1ea63055426db7c3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a8afb96532a67322a1ea63055426db7c3">usePositionTracking</a> = true</td></tr>
 <tr class="memdesc:a8afb96532a67322a1ea63055426db7c3"><td class="mdescLeft">&#160;</td><td class="mdescRight">If true, head tracking will affect the position of each <a class="el" href="class_o_v_r_camera_rig.html" title="A head-tracked stereoscopic virtual reality camera rig. ">OVRCameraRig</a>'s cameras.  <a href="#a8afb96532a67322a1ea63055426db7c3">More...</a><br /></td></tr>
 <tr class="separator:a8afb96532a67322a1ea63055426db7c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -315,16 +319,16 @@ Properties</h2></td></tr>
 <tr class="memdesc:a40403e3bacb1860d96ad6adbcd629278"><td class="mdescLeft">&#160;</td><td class="mdescRight">The number of expected display frames per rendered frame.  <a href="#a40403e3bacb1860d96ad6adbcd629278">More...</a><br /></td></tr>
 <tr class="separator:a40403e3bacb1860d96ad6adbcd629278"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab54c2d96b51affef7876f0666b9e3fcd"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#ab54c2d96b51affef7876f0666b9e3fcd">batteryLevel</a><code> [get]</code></td></tr>
-<tr class="memdesc:ab54c2d96b51affef7876f0666b9e3fcd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current battery level.  <a href="#ab54c2d96b51affef7876f0666b9e3fcd">More...</a><br /></td></tr>
+<tr class="memdesc:ab54c2d96b51affef7876f0666b9e3fcd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current battery level (Deprecated).  <a href="#ab54c2d96b51affef7876f0666b9e3fcd">More...</a><br /></td></tr>
 <tr class="separator:ab54c2d96b51affef7876f0666b9e3fcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4951e954607379070e457d3a6644bcce"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a4951e954607379070e457d3a6644bcce">batteryTemperature</a><code> [get]</code></td></tr>
-<tr class="memdesc:a4951e954607379070e457d3a6644bcce"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current battery temperature.  <a href="#a4951e954607379070e457d3a6644bcce">More...</a><br /></td></tr>
+<tr class="memdesc:a4951e954607379070e457d3a6644bcce"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current battery temperature (Deprecated).  <a href="#a4951e954607379070e457d3a6644bcce">More...</a><br /></td></tr>
 <tr class="separator:a4951e954607379070e457d3a6644bcce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8571110039a23de4264036156c080b04"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a8571110039a23de4264036156c080b04">batteryStatus</a><code> [get]</code></td></tr>
-<tr class="memdesc:a8571110039a23de4264036156c080b04"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current battery status.  <a href="#a8571110039a23de4264036156c080b04">More...</a><br /></td></tr>
+<tr class="memdesc:a8571110039a23de4264036156c080b04"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current battery status (Deprecated).  <a href="#a8571110039a23de4264036156c080b04">More...</a><br /></td></tr>
 <tr class="separator:a8571110039a23de4264036156c080b04"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a561731825032baac47ed5a442f516f00"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a561731825032baac47ed5a442f516f00">volumeLevel</a><code> [get]</code></td></tr>
-<tr class="memdesc:a561731825032baac47ed5a442f516f00"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current volume level.  <a href="#a561731825032baac47ed5a442f516f00">More...</a><br /></td></tr>
+<tr class="memdesc:a561731825032baac47ed5a442f516f00"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current volume level (Deprecated).  <a href="#a561731825032baac47ed5a442f516f00">More...</a><br /></td></tr>
 <tr class="separator:a561731825032baac47ed5a442f516f00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8bf65c129ac6fa1ffb6a00e406bb20b2"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_manager.html#a8bf65c129ac6fa1ffb6a00e406bb20b2">cpuLevel</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:a8bf65c129ac6fa1ffb6a00e406bb20b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets or sets the current CPU performance level (0-2). Lower performance levels save more power.  <a href="#a8bf65c129ac6fa1ffb6a00e406bb20b2">More...</a><br /></td></tr>
@@ -697,6 +701,31 @@ Events</h2></td></tr>
 
 </div>
 </div>
+<a id="a7d4996a7a66afcc36c3395983fed0f3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d4996a7a66afcc36c3395983fed0f3d">&#9670;&nbsp;</a></span>HasInsightPassthroughInitFailed()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool OVRManager.HasInsightPassthroughInitFailed </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="abc78525c839c485f2e1815ee87bc7754"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#abc78525c839c485f2e1815ee87bc7754">&#9670;&nbsp;</a></span>IsAdaptiveResSupportedByEngine()</h2>
 
@@ -721,6 +750,31 @@ Events</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Adaptive Resolution is based on Unity engine's renderViewportScale/eyeTextureResolutionScale feature But renderViewportScale was broken in an array of Unity engines, this function help to filter out those broken engines </p>
+
+</div>
+</div>
+<a id="af9d1d3cb45cdc2cd377514948b58035c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9d1d3cb45cdc2cd377514948b58035c">&#9670;&nbsp;</a></span>IsInsightPassthroughInitialized()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool OVRManager.IsInsightPassthroughInitialized </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -904,19 +958,19 @@ Events</h2></td></tr>
 
 </div>
 </div>
-<a id="aa993e3cd79e7326d2b77bc13f5c3a410"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa993e3cd79e7326d2b77bc13f5c3a410">&#9670;&nbsp;</a></span>enableAdaptiveResolution</h2>
+<a id="a10fd7bd957490b396fcbd41f901917e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a10fd7bd957490b396fcbd41f901917e0">&#9670;&nbsp;</a></span>isInsightPassthroughEnabled</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool OVRManager.enableAdaptiveResolution = false</td>
+          <td class="memname">bool OVRManager.isInsightPassthroughEnabled = false</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>If true, dynamic resolution will be enabled </p>
+<p>Specify if Insight Passthrough should be enabled. Passthrough layers can only be used if passthrough is enabled. </p>
 
 </div>
 </div>
@@ -1245,7 +1299,7 @@ Events</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Gets the current battery level. </p>
+<p>Gets the current battery level (Deprecated). </p>
 <dl class="section return"><dt>Returns</dt><dd><code>battery level in the range [0.0,1.0]</code> <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">batteryLevel</td><td>Battery level.</td></tr>
@@ -1276,7 +1330,7 @@ Events</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Gets the current battery status. </p>
+<p>Gets the current battery status (Deprecated). </p>
 <dl class="section return"><dt>Returns</dt><dd><code>battery status</code> <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">batteryStatus</td><td>Battery status.</td></tr>
@@ -1307,7 +1361,7 @@ Events</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Gets the current battery temperature. </p>
+<p>Gets the current battery temperature (Deprecated). </p>
 <dl class="section return"><dt>Returns</dt><dd><code>battery temperature in Celsius</code> <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">batteryTemperature</td><td>Battery temperature.</td></tr>
@@ -2090,7 +2144,7 @@ Events</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Gets the current volume level. </p>
+<p>Gets the current volume level (Deprecated). </p>
 <dl class="section return"><dt>Returns</dt><dd><code>volume level in the range [0,1].</code> </dd></dl>
 
 </div>
@@ -2540,7 +2594,7 @@ Events</h2></td></tr>
 </div>
 </div>
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Nov 8 2021 12:21:23 for VRoom by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Nov 15 2021 06:39:21 for VRoom by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.13
 </small></address>

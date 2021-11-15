@@ -2,6 +2,8 @@ var searchData=
 [
   ['hand',['Hand',['../class_o_v_r_touch_sample_1_1_hand.html',1,'OVRTouchSample']]],
   ['handedinputselector',['HandedInputSelector',['../class_handed_input_selector.html',1,'']]],
+  ['handmeshmask',['HandMeshMask',['../class_hand_mesh_mask.html',1,'']]],
+  ['handmeshui',['HandMeshUI',['../class_hand_mesh_u_i.html',1,'']]],
   ['handpose',['HandPose',['../class_o_v_r_touch_sample_1_1_hand_pose.html',1,'OVRTouchSample']]],
   ['handsactivechecker',['HandsActiveChecker',['../class_hands_active_checker.html',1,'']]],
   ['handsmanager',['HandsManager',['../class_oculus_sample_framework_1_1_hands_manager.html',1,'OculusSampleFramework']]],

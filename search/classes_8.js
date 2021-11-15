@@ -18,6 +18,7 @@ var searchData=
   ['inputorigininfo_5ft',['InputOriginInfo_t',['../struct_o_v_r_1_1_open_v_r_1_1_input_origin_info__t.html',1,'OVR::OpenVR']]],
   ['inputposeactiondata_5ft',['InputPoseActionData_t',['../struct_o_v_r_1_1_open_v_r_1_1_input_pose_action_data__t.html',1,'OVR::OpenVR']]],
   ['inputskeletalactiondata_5ft',['InputSkeletalActionData_t',['../struct_o_v_r_1_1_open_v_r_1_1_input_skeletal_action_data__t.html',1,'OVR::OpenVR']]],
+  ['insightpassthroughstyle',['InsightPassthroughStyle',['../struct_o_v_r_plugin_1_1_insight_passthrough_style.html',1,'OVRPlugin']]],
   ['inspectorcommentattribute',['InspectorCommentAttribute',['../class_inspector_comment_attribute.html',1,'']]],
   ['inspectornoteattribute',['InspectorNoteAttribute',['../class_inspector_note_attribute.html',1,'']]],
   ['installedapplication',['InstalledApplication',['../class_oculus_1_1_platform_1_1_models_1_1_installed_application.html',1,'Oculus::Platform::Models']]],

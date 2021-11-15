@@ -1,11 +1,14 @@
 var searchData=
 [
+  ['sampleui',['SampleUI',['../class_sample_u_i.html',1,'']]],
   ['scenemanagerhelper',['SceneManagerHelper',['../class_photon_1_1_pun_1_1_scene_manager_helper.html',1,'Photon::Pun']]],
+  ['scenesampler',['SceneSampler',['../class_scene_sampler.html',1,'']]],
   ['scenesetting',['SceneSetting',['../class_photon_1_1_pun_1_1_scene_setting.html',1,'Photon::Pun']]],
   ['scorehelper',['ScoreHelper',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_score_helper.html',1,'Photon::Pun::Demo::Cockpit']]],
   ['sdkaccount',['SdkAccount',['../class_oculus_1_1_platform_1_1_models_1_1_sdk_account.html',1,'Oculus::Platform::Models']]],
   ['sdkaccountlist',['SdkAccountList',['../class_oculus_1_1_platform_1_1_models_1_1_sdk_account_list.html',1,'Oculus::Platform::Models']]],
   ['selectioncylinder',['SelectionCylinder',['../class_oculus_sample_framework_1_1_selection_cylinder.html',1,'OculusSampleFramework']]],
+  ['selectivepassthroughexperience',['SelectivePassthroughExperience',['../class_selective_passthrough_experience.html',1,'']]],
   ['sendratefield',['SendRateField',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_send_rate_field.html',1,'Photon::Pun::Demo::Cockpit']]],
   ['sendrateonserializefield',['SendRateOnSerializeField',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_send_rate_on_serialize_field.html',1,'Photon::Pun::Demo::Cockpit']]],
   ['serveraddressproperty',['ServerAddressProperty',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_server_address_property.html',1,'Photon::Pun::Demo::Cockpit']]],
@@ -39,8 +42,10 @@ var searchData=
   ['spectrum',['Spectrum',['../class_o_n_s_p_propagation_material_1_1_spectrum.html',1,'ONSPPropagationMaterial']]],
   ['splineposition',['SplinePosition',['../class_photon_1_1_pun_1_1_demo_1_1_slot_racer_1_1_utils_1_1_spline_position.html',1,'Photon::Pun::Demo::SlotRacer::Utils']]],
   ['splinewalker',['SplineWalker',['../class_photon_1_1_pun_1_1_demo_1_1_slot_racer_1_1_utils_1_1_spline_walker.html',1,'Photon::Pun::Demo::SlotRacer::Utils']]],
+  ['sppquad',['SPPquad',['../class_s_p_pquad.html',1,'']]],
   ['standaloneplatform',['StandalonePlatform',['../class_oculus_1_1_platform_1_1_standalone_platform.html',1,'Oculus::Platform']]],
   ['standaloneplatformsettings',['StandalonePlatformSettings',['../class_oculus_1_1_platform_1_1_standalone_platform_settings.html',1,'Oculus::Platform']]],
+  ['startcrashlytics',['StartCrashlytics',['../class_start_crashlytics.html',1,'']]],
   ['startmenu',['StartMenu',['../class_start_menu.html',1,'']]],
   ['statesgui',['StatesGui',['../class_photon_1_1_pun_1_1_utility_scripts_1_1_states_gui.html',1,'Photon::Pun::UtilityScripts']]],
   ['stringinputfield',['StringInputField',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_string_input_field.html',1,'Photon::Pun::Demo::Cockpit']]],
@@ -50,6 +55,5 @@ var searchData=
   ['synchronizedlayer',['SynchronizedLayer',['../class_photon_1_1_pun_1_1_photon_animator_view_1_1_synchronized_layer.html',1,'Photon::Pun::PhotonAnimatorView']]],
   ['synchronizedparameter',['SynchronizedParameter',['../class_photon_1_1_pun_1_1_photon_animator_view_1_1_synchronized_parameter.html',1,'Photon::Pun::PhotonAnimatorView']]],
   ['syncresult',['SyncResult',['../class_directory_syncer_1_1_sync_result.html',1,'DirectorySyncer']]],
-  ['systempermission',['SystemPermission',['../class_oculus_1_1_platform_1_1_models_1_1_system_permission.html',1,'Oculus::Platform::Models']]],
   ['systemvoipstate',['SystemVoipState',['../class_oculus_1_1_platform_1_1_models_1_1_system_voip_state.html',1,'Oculus::Platform::Models']]]
 ];

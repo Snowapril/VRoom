@@ -13,6 +13,7 @@ var searchData=
   ['pluginplatform',['PluginPlatform',['../class_oculus_1_1_platform_1_1_oculus_platform_settings_editor.html#adf85743116184ad2ed8b928c07b015e8',1,'Oculus::Platform::OculusPlatformSettingsEditor']]],
   ['preloadsounds',['PreloadSounds',['../namespace_o_v_r.html#a91c5e9e6767cc28bd307f88c9fc27aec',1,'OVR']]],
   ['preset',['Preset',['../class_o_n_s_p_propagation_material.html#a44273d800028c63b4f8b7965f9e1aadd',1,'ONSPPropagationMaterial']]],
+  ['projectionsurfacetype',['ProjectionSurfaceType',['../class_o_v_r_passthrough_layer.html#ad9b1c9f3fcb959d98b797a28fe645e86',1,'OVRPassthroughLayer']]],
   ['propertytypeflag',['PropertyTypeFlag',['../namespace_photon_1_1_realtime.html#a764ac92345b843c15d1935d1a6eafaf0',1,'Photon::Realtime']]],
   ['punloglevel',['PunLogLevel',['../group__public_api.html#ga5a8128eaeb2f346d4cceb57d48caf9c1',1,'Photon::Pun']]]
 ];

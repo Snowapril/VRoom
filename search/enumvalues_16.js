@@ -1,5 +1,8 @@
 var searchData=
 [
+  ['vec2',['VEC2',['../_o_v_r_g_l_t_f_accessor_8cs.html#a3b65715c1763a10aa06c57aa46b6b34ba9bd71a29dd44a2e0252b56ce5c6d251a',1,'OVRGLTFAccessor.cs']]],
+  ['vec3',['VEC3',['../_o_v_r_g_l_t_f_accessor_8cs.html#a3b65715c1763a10aa06c57aa46b6b34baa7c116def9f212182aa52ab1e936d77d',1,'OVRGLTFAccessor.cs']]],
+  ['vec4',['VEC4',['../_o_v_r_g_l_t_f_accessor_8cs.html#a3b65715c1763a10aa06c57aa46b6b34baee190f7a0572504036effa0134dc5d88',1,'OVRGLTFAccessor.cs']]],
   ['velocity',['Velocity',['../_o_v_r_common_8cs.html#ac0f4f6b1982e76906a49e75463f3c8c9a88156d46910a2d733443c339a9231d12',1,'OVRCommon.cs']]],
   ['vendorspecific_5fhmdfound_5fcantopendevice',['VendorSpecific_HmdFound_CantOpenDevice',['../namespace_o_v_r_1_1_open_v_r.html#a751834745022af519c93478b94027691a9a2df6a0402710edee17ae3e12cf5827',1,'OVR::OpenVR']]],
   ['vendorspecific_5fhmdfound_5fcantreadfirmwareversion',['VendorSpecific_HmdFound_CantReadFirmwareVersion',['../namespace_o_v_r_1_1_open_v_r.html#a751834745022af519c93478b94027691a8bb495a4d2f685d2d6f06dd1055f06f1',1,'OVR::OpenVR']]],
@@ -19,6 +22,7 @@ var searchData=
   ['verbose',['Verbose',['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#ad5d62246e27323195efba8e6dae00328ad4a9fa383ab700c5bdd6f31cf7df0faf',1,'OvrAvatarSDKCAPI.cs']]],
   ['versionmismatch',['VersionMismatch',['../namespace_oculus_1_1_platform.html#a18232e1232438ba0c9541756c6428076a2d50084f04994afa70d78b604a22dd31',1,'Oculus::Platform']]],
   ['verticallayout',['VerticalLayout',['../namespace_o_v_r_1_1_open_v_r.html#ae8e3119fedda4392300d171dacacd6d0a37ba215600184a8a1165893c854727d2',1,'OVR::OpenVR']]],
+  ['verticalscaled',['VerticalScaled',['../class_grab_object.html#a0355acbe72a8f5f882dda6eb04c09873a9581d86be6589135bece854645a9b4ed',1,'GrabObject']]],
   ['verydetailed',['VeryDetailed',['../class_o_v_r_vignette.html#a4937e962c190ceea41793e2faa23208fa600b1fd76d477cd4b16ac132e2838372',1,'OVRVignette']]],
   ['veryhigh',['VeryHigh',['../namespace_o_v_r.html#a1cae31b048f39cc393097f968e78623baf0b44f10edcd3bdee6720430ac4111cd',1,'OVR']]],
   ['verylow',['VeryLow',['../namespace_o_v_r.html#a1cae31b048f39cc393097f968e78623ba89655e31f5f56a0f7860c4a85b7e9752',1,'OVR']]],
@@ -34,6 +38,7 @@ var searchData=
   ['visibleindashboard',['VisibleInDashboard',['../namespace_o_v_r_1_1_open_v_r.html#a1fb0ffaad2e16a3ffe3b993185542265a74bce59e0500c4a7a40a062004017f16',1,'OVR::OpenVR']]],
   ['viveport',['Viveport',['../namespace_photon_1_1_chat.html#a7c13dc83e6b84e241e105501af35ffd6a7a395899344672c58a6a8558cb08f482',1,'Photon.Chat.Viveport()'],['../namespace_photon_1_1_realtime.html#a5317f0e297e7082e4b1cca873695a82aa7a395899344672c58a6a8558cb08f482',1,'Photon.Realtime.Viveport()']]],
   ['voice',['Voice',['../namespace_photon_1_1_realtime.html#aa38fa4af1bcb3dcd4ae2d2faf507aa33ad7a3fdf1351b72249a47454751549deb',1,'Photon::Realtime']]],
+  ['voip_5fgetmicrophoneavailability',['Voip_GetMicrophoneAvailability',['../class_oculus_1_1_platform_1_1_message.html#a3f37acee13a52d4f6d2f94778a48e79ca58f7cec2735d6e55eb8b7233ba753860',1,'Oculus::Platform::Message']]],
   ['voip_5fsetsystemvoipsuppressed',['Voip_SetSystemVoipSuppressed',['../class_oculus_1_1_platform_1_1_message.html#a3f37acee13a52d4f6d2f94778a48e79ca73277b9b23bbb34085147adc8d92e1d1',1,'Oculus::Platform::Message']]],
   ['vorbis',['Vorbis',['../namespace_youtube_light.html#ad8e35e82a2500583bee38b327d5e20cda193f52b6a96ab8ea777d9613884cea04',1,'YoutubeLight']]],
   ['vr',['VR',['../namespace_o_v_r_1_1_open_v_r.html#aca945b49bac41ade07087f858776eaf8aef8a9f751393cecaf3e811c30ee3e756',1,'OVR::OpenVR']]],

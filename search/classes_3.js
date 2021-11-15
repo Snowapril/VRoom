@@ -1,7 +1,7 @@
 var searchData=
 [
   ['d3d12texturedata_5ft',['D3D12TextureData_t',['../struct_o_v_r_1_1_open_v_r_1_1_d3_d12_texture_data__t.html',1,'OVR::OpenVR']]],
-  ['dataentry',['DataEntry',['../class_oculus_1_1_platform_1_1_samples_1_1_net_chat_1_1_data_entry.html',1,'Oculus.Platform.Samples.NetChat.DataEntry'],['../class_oculus_1_1_platform_1_1_samples_1_1_simple_platform_sample_1_1_data_entry.html',1,'Oculus.Platform.Samples.SimplePlatformSample.DataEntry']]],
+  ['dataentry',['DataEntry',['../class_oculus_1_1_platform_1_1_samples_1_1_simple_platform_sample_1_1_data_entry.html',1,'Oculus.Platform.Samples.SimplePlatformSample.DataEntry'],['../class_oculus_1_1_platform_1_1_samples_1_1_net_chat_1_1_data_entry.html',1,'Oculus.Platform.Samples.NetChat.DataEntry']]],
   ['debuguibuilder',['DebugUIBuilder',['../class_debug_u_i_builder.html',1,'']]],
   ['debuguisample',['DebugUISample',['../class_debug_u_i_sample.html',1,'']]],
   ['defaultpool',['DefaultPool',['../class_photon_1_1_pun_1_1_default_pool.html',1,'Photon::Pun']]],

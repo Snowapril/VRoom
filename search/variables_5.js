@@ -1,6 +1,7 @@
 var searchData=
 [
   ['ecolorspace',['eColorSpace',['../struct_o_v_r_1_1_open_v_r_1_1_texture__t.html#a1e66f0f5f2b1565fd14cfe94ce0afe85',1,'OVR::OpenVR::Texture_t']]],
+  ['edgecolor',['EdgeColor',['../struct_o_v_r_plugin_1_1_insight_passthrough_style.html#ad7cc85107ea6d24cc61e8e2aad9b7931',1,'OVRPlugin::InsightPassthroughStyle']]],
   ['editmoderequired',['editModeRequired',['../class_assets_1_1_o_v_r_1_1_scripts_1_1_fix_record.html#ab8b4a7b34948f0d1c49470069ac3b99f',1,'Assets::OVR::Scripts::FixRecord']]],
   ['eframetype',['eFrameType',['../struct_o_v_r_1_1_open_v_r_1_1_camera_video_stream_frame_header__t.html#ab72d0d558012669c0e70a108e1f32200',1,'OVR::OpenVR::CameraVideoStreamFrameHeader_t']]],
   ['email',['email',['../struct_oculus_1_1_platform_1_1_c_a_p_i_1_1_oculus_init_params.html#a92651978b0771bb738857395b4d54782',1,'Oculus::Platform::CAPI::OculusInitParams']]],
@@ -13,7 +14,6 @@ var searchData=
   ['emptyroomttl',['emptyRoomTtl',['../class_photon_1_1_realtime_1_1_room_info.html#a886724af677385546aae6a5a6f610bd1',1,'Photon.Realtime.RoomInfo.emptyRoomTtl()'],['../class_photon_1_1_realtime_1_1_game_property_key.html#abfa9ee4b8891cdff49653fe4d78ce50f',1,'Photon.Realtime.GamePropertyKey.EmptyRoomTtl()'],['../class_photon_1_1_realtime_1_1_room_options.html#ac00ad541c73fcdb9ff1aeca6b6390512',1,'Photon.Realtime.RoomOptions.EmptyRoomTtl()'],['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_pun_cockpit.html#a715a7d577406cd4e5f59620471b96f45',1,'Photon.Pun.Demo.Cockpit.PunCockpit.EmptyRoomTtl()'],['../class_photon_1_1_realtime_1_1_parameter_code.html#a2dee4d35c76209ad7acac1cdcf842ff1',1,'Photon.Realtime.ParameterCode.EmptyRoomTTL()']]],
   ['emptyroomttlfield',['EmptyRoomTtlField',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_pun_cockpit.html#ac44e74c0056dfa7e1c84d6a1a5c30a43',1,'Photon::Pun::Demo::Cockpit::PunCockpit']]],
   ['enableacceleration',['enableAcceleration',['../class_o_v_r_lip_sync_context_base.html#a9a1b7a10aef316cce4a38d569ce7803f',1,'OVRLipSyncContextBase']]],
-  ['enableadaptiveresolution',['enableAdaptiveResolution',['../class_o_v_r_manager.html#aa993e3cd79e7326d2b77bc13f5c3a410',1,'OVRManager']]],
   ['enablebase',['EnableBase',['../class_ovr_avatar.html#aae3b6370617ab0a8cbaca5addaeb98a0',1,'OvrAvatar']]],
   ['enablebody',['EnableBody',['../class_ovr_avatar.html#a2a1251b7035152c28103ff9682e15654',1,'OvrAvatar']]],
   ['enableexpressive',['EnableExpressive',['../class_ovr_avatar.html#a30bce8e78211c4794d98ec08e239333e',1,'OvrAvatar']]],
@@ -77,6 +77,7 @@ var searchData=
   ['expectedusersinput',['ExpectedUsersInput',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_forms_1_1_create_room_ui_form.html#a135e5137305cb4ada8f7445e61193ecd',1,'Photon::Pun::Demo::Cockpit::Forms::CreateRoomUiForm']]],
   ['expectedvalues',['ExpectedValues',['../class_photon_1_1_chat_1_1_chat_parameter_code.html#a657d2227aeea3efac55a64c4560d1ceb',1,'Photon.Chat.ChatParameterCode.ExpectedValues()'],['../class_photon_1_1_realtime_1_1_parameter_code.html#af5d17b1cac3c7bcbc864f2cf411c5231',1,'Photon.Realtime.ParameterCode.ExpectedValues()']]],
   ['expensive',['Expensive',['../class_o_v_r_overlay_canvas.html#a1f30543a997ac047996fe95e00836338',1,'OVROverlayCanvas']]],
+  ['experimentalfeaturesenabled',['experimentalFeaturesEnabled',['../class_o_v_r_project_config.html#ada5cda213d62bbb7df31ff4bb6c15e35',1,'OVRProjectConfig']]],
   ['expirationtime',['ExpirationTime',['../class_oculus_1_1_platform_1_1_models_1_1_purchase.html#adbf99f6e2709cbd6594908ff7c2e80c7',1,'Oculus::Platform::Models::Purchase']]],
   ['externalhttpcallfailed',['ExternalHttpCallFailed',['../class_photon_1_1_realtime_1_1_error_code.html#aeafab7c6e1ff4e0b10ba74d124d57dd8',1,'Photon::Realtime::ErrorCode']]],
   ['externalstoragepath',['externalStoragePath',['../class_o_v_r_scene_loader.html#a98e8bca3529c963b67e96a3a6cb88bec',1,'OVRSceneLoader']]],

@@ -2,6 +2,7 @@ var searchData=
 [
   ['uimainwizard',['UiMainWizard',['../class_photon_1_1_pun_1_1_photon_editor.html#abe16b8195085be37d248e648bde9c8e1',1,'Photon::Pun::PhotonEditor']]],
   ['uisetupapp',['UiSetupApp',['../class_photon_1_1_pun_1_1_photon_editor.html#a4ccbec55036af587ae405f134b92e89c',1,'Photon::Pun::PhotonEditor']]],
+  ['undoinkline',['UndoInkLine',['../class_passthrough_brush.html#a292e18366396227e33ff62108b45627a',1,'PassthroughBrush']]],
   ['unitylogdelegate',['UnityLogDelegate',['../class_oculus_1_1_platform_1_1_standalone_platform.html#a4350a8c57074780da0b20e1e4beacca9',1,'Oculus.Platform.StandalonePlatform.UnityLogDelegate()'],['../class_oculus_1_1_platform_1_1_windows_platform.html#a12ca5df4cf7cf22e2dc1c167ba51ad34',1,'Oculus.Platform.WindowsPlatform.UnityLogDelegate()']]],
   ['unlockglsharedtextureforaccess',['UnlockGLSharedTextureForAccess',['../class_o_v_r_1_1_open_v_r_1_1_c_v_r_compositor.html#a5c471d04afb0ed178c2c9ab15ed7275d',1,'OVR::OpenVR::CVRCompositor']]],
   ['unmuteallsounds',['UnMuteAllSounds',['../class_o_v_r_1_1_audio_manager.html#ae971eba1e3ea1cdfc395d27d780504d7',1,'OVR::AudioManager']]],

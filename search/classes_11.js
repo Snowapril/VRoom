@@ -15,6 +15,7 @@ var searchData=
   ['regionlistcell',['RegionListCell',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_region_list_cell.html',1,'Photon::Pun::Demo::Cockpit']]],
   ['regionlistview',['RegionListView',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_region_list_view.html',1,'Photon::Pun::Demo::Cockpit']]],
   ['regionpinger',['RegionPinger',['../class_photon_1_1_realtime_1_1_region_pinger.html',1,'Photon::Realtime']]],
+  ['rejoindialogresult',['RejoinDialogResult',['../class_oculus_1_1_platform_1_1_models_1_1_rejoin_dialog_result.html',1,'Oculus::Platform::Models']]],
   ['remoteloopbackmanager',['RemoteLoopbackManager',['../class_remote_loopback_manager.html',1,'']]],
   ['remoteplayer',['RemotePlayer',['../class_remote_player.html',1,'RemotePlayer'],['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_remote_player.html',1,'Oculus.Platform.Samples.VrHoops.RemotePlayer']]],
   ['rendermodel_5fcomponentstate_5ft',['RenderModel_ComponentState_t',['../struct_o_v_r_1_1_open_v_r_1_1_render_model___component_state__t.html',1,'OVR::OpenVR']]],
@@ -36,5 +37,6 @@ var searchData=
   ['roomlistentry',['RoomListEntry',['../class_photon_1_1_pun_1_1_demo_1_1_asteroids_1_1_room_list_entry.html',1,'Photon::Pun::Demo::Asteroids']]],
   ['roomlistview',['RoomListView',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_room_list_view.html',1,'Photon::Pun::Demo::Cockpit']]],
   ['roommanager',['RoomManager',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_room_manager.html',1,'Oculus.Platform.Samples.VrVoiceChat.RoomManager'],['../class_room_manager.html',1,'RoomManager']]],
-  ['roomoptions',['RoomOptions',['../class_photon_1_1_realtime_1_1_room_options.html',1,'Photon.Realtime.RoomOptions'],['../class_oculus_1_1_platform_1_1_room_options.html',1,'Oculus.Platform.RoomOptions']]]
+  ['roomoptions',['RoomOptions',['../class_oculus_1_1_platform_1_1_room_options.html',1,'Oculus.Platform.RoomOptions'],['../class_photon_1_1_realtime_1_1_room_options.html',1,'Photon.Realtime.RoomOptions']]],
+  ['rosteroptions',['RosterOptions',['../class_oculus_1_1_platform_1_1_roster_options.html',1,'Oculus::Platform']]]
 ];

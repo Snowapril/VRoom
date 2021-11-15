@@ -72,6 +72,7 @@ $(function() {
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
@@ -102,6 +103,8 @@ Public Types</h2></td></tr>
 <a class="el" href="class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939a4db9b9c7335ecf2c8a55b5de244000a1">OverlayShape.OffcenterCubemap</a> = OVRPlugin.OverlayShape.OffcenterCubemap, 
 <br />
 &#160;&#160;<a class="el" href="class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939a1236e9c7afedf1cc82903a7fa977a705">OverlayShape.Equirect</a> = OVRPlugin.OverlayShape.Equirect, 
+<a class="el" href="class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939aa81f4f7fc4e569b0318c0aa7b832b71a">OverlayShape.ReconstructionPassthrough</a> = OVRPlugin.OverlayShape.ReconstructionPassthrough, 
+<a class="el" href="class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939a29fed9ffd8df16ddb6987cfdaf664221">OverlayShape.SurfaceProjectedPassthrough</a> = OVRPlugin.OverlayShape.SurfaceProjectedPassthrough, 
 <a class="el" href="class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939a44d464f3fda9a5457bd9f11e32b86f6f">OverlayShape.Fisheye</a> = OVRPlugin.OverlayShape.Fisheye
 <br />
  }<tr class="memdesc:a66270f911c2b6bdadf21de93ff3ab939"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines the on-screen appearance of a layer.  <a href="class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939">More...</a><br /></td></tr>
@@ -128,6 +131,11 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ae931329dc57e66cf3c9d94ce0998b03b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab7130981f4fd48df12c76cf9d5da0f8e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#ab7130981f4fd48df12c76cf9d5da0f8e">SetPerLayerColorScaleAndOffset</a> (Vector4 scale, Vector4 offset)</td></tr>
 <tr class="separator:ab7130981f4fd48df12c76cf9d5da0f8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a409724ea4a9e2c55a7763a359a47d408"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#a409724ea4a9e2c55a7763a359a47d408">IsPassthroughShape</a> (<a class="el" href="class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939">OverlayShape</a> shape)</td></tr>
+<tr class="separator:a409724ea4a9e2c55a7763a359a47d408"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -174,7 +182,7 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a1a2bc2cac818cc2fb8d616bbf5ac186a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#a1a2bc2cac818cc2fb8d616bbf5ac186a">compositionDepth</a> = 0</td></tr>
 <tr class="memdesc:a1a2bc2cac818cc2fb8d616bbf5ac186a"><td class="mdescLeft">&#160;</td><td class="mdescRight">The compositionDepth defines the order of the OVROverlays in composition. The overlay/underlay with smaller compositionDepth would be composited in the front of the overlay/underlay with larger compositionDepth.  <a href="#a1a2bc2cac818cc2fb8d616bbf5ac186a">More...</a><br /></td></tr>
 <tr class="separator:a1a2bc2cac818cc2fb8d616bbf5ac186a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae14ab8fcd7ab453605db7456961933c3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#ae14ab8fcd7ab453605db7456961933c3">noDepthBufferTesting</a> = false</td></tr>
+<tr class="memitem:ae14ab8fcd7ab453605db7456961933c3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#ae14ab8fcd7ab453605db7456961933c3">noDepthBufferTesting</a> = true</td></tr>
 <tr class="memdesc:ae14ab8fcd7ab453605db7456961933c3"><td class="mdescLeft">&#160;</td><td class="mdescRight">The noDepthBufferTesting will stop layer's depth buffer compositing even if the engine has "Depth buffer sharing" enabled on Rift.  <a href="#ae14ab8fcd7ab453605db7456961933c3">More...</a><br /></td></tr>
 <tr class="separator:ae14ab8fcd7ab453605db7456961933c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb6564eeb2f4331a23c18ea57e1b7127"><td class="memItemLeft" align="right" valign="top">OVRPlugin.EyeTextureFormat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#aeb6564eeb2f4331a23c18ea57e1b7127">layerTextureFormat</a> = OVRPlugin.EyeTextureFormat.R8G8B8A8_sRGB</td></tr>
@@ -211,6 +219,8 @@ Properties</h2></td></tr>
 <tr class="memitem:a88e8c84608a0060afc4e9faa6a97021c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#a88e8c84608a0060afc4e9faa6a97021c">previewInEditor</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:a88e8c84608a0060afc4e9faa6a97021c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Preview the overlay in the editor using a mesh renderer.  <a href="#a88e8c84608a0060afc4e9faa6a97021c">More...</a><br /></td></tr>
 <tr class="separator:a88e8c84608a0060afc4e9faa6a97021c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb2713358718426e4ce7b85effe102a0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#abb2713358718426e4ce7b85effe102a0">layerId</a><code> [get]</code></td></tr>
+<tr class="separator:abb2713358718426e4ce7b85effe102a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a42172397649a5e158f546ccdd1647ccd"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_o_v_r_overlay.html#a42172397649a5e158f546ccdd1647ccd">OpenVROverlayKey</a><code> [get]</code></td></tr>
 <tr class="separator:a42172397649a5e158f546ccdd1647ccd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -265,6 +275,8 @@ Properties</h2></td></tr>
 <tr><td class="fieldname"><a id="a66270f911c2b6bdadf21de93ff3ab939a29b142520cd0349c9f7375be4aa848c0"></a>Cubemap&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a66270f911c2b6bdadf21de93ff3ab939a4db9b9c7335ecf2c8a55b5de244000a1"></a>OffcenterCubemap&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a66270f911c2b6bdadf21de93ff3ab939a1236e9c7afedf1cc82903a7fa977a705"></a>Equirect&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a66270f911c2b6bdadf21de93ff3ab939aa81f4f7fc4e569b0318c0aa7b832b71a"></a>ReconstructionPassthrough&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a66270f911c2b6bdadf21de93ff3ab939a29fed9ffd8df16ddb6987cfdaf664221"></a>SurfaceProjectedPassthrough&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a66270f911c2b6bdadf21de93ff3ab939a44d464f3fda9a5457bd9f11e32b86f6f"></a>Fisheye&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
@@ -313,6 +325,32 @@ Properties</h2></td></tr>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a409724ea4a9e2c55a7763a359a47d408"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a409724ea4a9e2c55a7763a359a47d408">&#9670;&nbsp;</a></span>IsPassthroughShape()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool OVROverlay.IsPassthroughShape </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_o_v_r_overlay.html#a66270f911c2b6bdadf21de93ff3ab939">OverlayShape</a>&#160;</td>
+          <td class="paramname"><em>shape</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -764,7 +802,7 @@ Properties</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool OVROverlay.noDepthBufferTesting = false</td>
+          <td class="memname">bool OVROverlay.noDepthBufferTesting = true</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -883,6 +921,28 @@ Properties</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Property Documentation</h2>
+<a id="abb2713358718426e4ce7b85effe102a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb2713358718426e4ce7b85effe102a0">&#9670;&nbsp;</a></span>layerId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int OVROverlay.layerId</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a42172397649a5e158f546ccdd1647ccd"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a42172397649a5e158f546ccdd1647ccd">&#9670;&nbsp;</a></span>OpenVROverlayKey</h2>
 
@@ -941,7 +1001,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Nov 8 2021 12:21:23 for VRoom by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Nov 15 2021 06:39:21 for VRoom by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.13
 </small></address>

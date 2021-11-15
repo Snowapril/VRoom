@@ -8,7 +8,7 @@ var searchData=
   ['assets_20empty_20directory',['Assets Empty Directory',['../md__image__r_e_a_d_m_e.html',1,'']]],
   ['assets_20empty_20directory',['Assets Empty Directory',['../md__material__r_e_a_d_m_e.html',1,'']]],
   ['assets_20empty_20directory',['Assets Empty Directory',['../md__model__r_e_a_d_m_e.html',1,'']]],
-  ['assets_20empty_20directory',['Assets Empty Directory',['../md__prefab__r_e_a_d_m_e.html',1,'']]],
+  ['assets_20empty_20directory',['Assets Empty Directory',['../md__resources__prefab__r_e_a_d_m_e.html',1,'']]],
   ['assets_20empty_20directory',['Assets Empty Directory',['../md__script__r_e_a_d_m_e.html',1,'']]],
   ['assets_20empty_20directory',['Assets Empty Directory',['../md__texture__r_e_a_d_m_e.html',1,'']]]
 ];

@@ -27,6 +27,8 @@ var searchData=
   ['getproperties',['GetProperties',['../class_photon_1_1_realtime_1_1_operation_code.html#a8fefab41e1abe3ebfe3213fc88ab5e7d',1,'Photon::Realtime::OperationCode']]],
   ['getregions',['GetRegions',['../class_photon_1_1_realtime_1_1_operation_code.html#aaebed3eeb9e14f241328fcb899a2e205',1,'Photon::Realtime::OperationCode']]],
   ['glossinessscale',['glossinessScale',['../structovr_avatar_p_b_s_material_state.html#aab94d57c323309a23738f06201cdadc4',1,'ovrAvatarPBSMaterialState']]],
+  ['grabbedobjectdelegate',['GrabbedObjectDelegate',['../class_grab_object.html#a805a4ab6c91ec692b3d2ef0e5a187017',1,'GrabObject']]],
+  ['grabbedrotation',['grabbedRotation',['../class_grab_object.html#ab9c360eef16cff7a7ec118585acee52c',1,'GrabObject']]],
   ['grabbegin',['grabBegin',['../class_o_v_r_grabber.html#a73f250601d4ace3d0f82e22f62db979c',1,'OVRGrabber']]],
   ['grabend',['grabEnd',['../class_o_v_r_grabber.html#a338681eef30e75e7d619da33384cfca4',1,'OVRGrabber']]],
   ['granttime',['GrantTime',['../class_oculus_1_1_platform_1_1_models_1_1_purchase.html#a259618f3ed06c55d3318b7dff13bb39e',1,'Oculus::Platform::Models::Purchase']]],

@@ -11,6 +11,7 @@ var searchData=
   ['cloudstoragedatastatus',['CloudStorageDataStatus',['../namespace_oculus_1_1_platform.html#a687f251594a094e3c2f1127661f11b4d',1,'Oculus::Platform']]],
   ['cloudstorageupdatestatus',['CloudStorageUpdateStatus',['../namespace_oculus_1_1_platform.html#a42d24db39ac50a5e8e75ce0d2c42fc69',1,'Oculus::Platform']]],
   ['clustersize',['ClusterSize',['../namespace_photon_1_1_pun_1_1_demo_1_1_procedural.html#a0de8baf1b1faf3edccc985244f2b9e92',1,'Photon::Pun::Demo::Procedural']]],
+  ['colormapeditortype',['ColorMapEditorType',['../class_o_v_r_passthrough_layer.html#aa8fb5c14009f04a3998a5f60db319b45',1,'OVRPassthroughLayer']]],
   ['colorspace',['ColorSpace',['../class_o_v_r_manager.html#a674e7b22e74089919f092eff3f360d29',1,'OVRManager']]],
   ['confidencebehavior',['ConfidenceBehavior',['../class_o_v_r_mesh_renderer.html#ac109e8aa2a3472f07c735c9b235f5a66',1,'OVRMeshRenderer.ConfidenceBehavior()'],['../class_o_v_r_skeleton_renderer.html#a3de6ef11c338039c6ab2fd17c52d55a3',1,'OVRSkeletonRenderer.ConfidenceBehavior()']]],
   ['connectionstate',['ConnectionState',['../class_o_v_r_network_1_1_o_v_r_network_tcp_client.html#a6ac0b6efb6cf287c958e5fc0ce8eb433',1,'OVRNetwork::OVRNetworkTcpClient']]],

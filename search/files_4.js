@@ -1,6 +1,7 @@
 var searchData=
 [
   ['enableswitch_2ecs',['EnableSwitch.cs',['../_enable_switch_8cs.html',1,'']]],
+  ['enableunpremultipliedalpha_2ecs',['EnableUnpremultipliedAlpha.cs',['../_enable_unpremultiplied_alpha_8cs.html',1,'']]],
   ['encoder_2ecs',['Encoder.cs',['../_encoder_8cs.html',1,'']]],
   ['entitlementcheck_2ecs',['EntitlementCheck.cs',['../_entitlement_check_8cs.html',1,'']]],
   ['enums_2ecs',['Enums.cs',['../_enums_8cs.html',1,'']]],

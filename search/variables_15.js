@@ -45,7 +45,7 @@ var searchData=
   ['uptan',['UpTan',['../struct_o_v_r_plugin_1_1_fovf.html#a334499a27e8115bcc4f1ad2a296f6bf0',1,'OVRPlugin::Fovf']]],
   ['uripath',['UriPath',['../class_photon_1_1_realtime_1_1_parameter_code.html#afa720433859e2f8a14d7db063b9f78fa',1,'Photon::Realtime::ParameterCode']]],
   ['uriprefixoverride',['uriPrefixOverride',['../struct_oculus_1_1_platform_1_1_c_a_p_i_1_1_oculus_init_params.html#a2f66ece6f4d4ef6896b8dc8933729272',1,'Oculus::Platform::CAPI::OculusInitParams']]],
-  ['url',['url',['../class_youtube_simplified.html#a16399ff1375538b467ca1372d688c42d',1,'YoutubeSimplified.url()'],['../class_youtube_thumbnail_data.html#a1ba508021eeacfe6c4337f79d9069dc0',1,'YoutubeThumbnailData.url()'],['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_online_doc_button.html#a6dc0de8447f8dd4a6661400fe4ec82b1',1,'Photon.Pun.Demo.Cockpit.OnlineDocButton.Url()']]],
+  ['url',['Url',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_online_doc_button.html#a6dc0de8447f8dd4a6661400fe4ec82b1',1,'Photon.Pun.Demo.Cockpit.OnlineDocButton.Url()'],['../class_youtube_simplified.html#a16399ff1375538b467ca1372d688c42d',1,'YoutubeSimplified.url()'],['../class_youtube_thumbnail_data.html#a1ba508021eeacfe6c4337f79d9069dc0',1,'YoutubeThumbnailData.url()']]],
   ['urlappidexplained',['UrlAppIDExplained',['../class_photon_1_1_pun_1_1_photon_editor.html#af5fdde8043aaad560e9cae9589942773',1,'Photon::Pun::PhotonEditor']]],
   ['urlclouddashboard',['UrlCloudDashboard',['../class_photon_1_1_pun_1_1_photon_editor.html#a8fcdae4c59090022c287083bec0f0bb3',1,'Photon::Pun::PhotonEditor']]],
   ['urlcompare',['UrlCompare',['../class_photon_1_1_pun_1_1_photon_editor.html#a67c7fc5200113905d2d9777b38e01dfb',1,'Photon::Pun::PhotonEditor']]],

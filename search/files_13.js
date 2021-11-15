@@ -19,6 +19,10 @@ var searchData=
   ['vreyeraycaster_2ecs',['VREyeRaycaster.cs',['../_vr_hoops_2_scripts_2_v_r_eye_raycaster_8cs.html',1,'(Global Namespace)'],['../_vr_voice_chat_2_scripts_2_v_r_eye_raycaster_8cs.html',1,'(Global Namespace)']]],
   ['vroominputsystem_2ecs',['VRoomInputSystem.cs',['../_v_room_input_system_8cs.html',1,'']]],
   ['vroominputtest_2ecs',['VRoomInputTest.cs',['../_v_room_input_test_8cs.html',1,'']]],
+  ['vroomphotonlauncher_2ecs',['VroomPhotonLauncher.cs',['../_vroom_photon_launcher_8cs.html',1,'']]],
+  ['vroomplayernameinputfield_2ecs',['VroomPlayerNameInputField.cs',['../_vroom_player_name_input_field_8cs.html',1,'']]],
   ['vrplayer_2ecs',['VRPlayer.cs',['../_v_r_player_8cs.html',1,'']]],
-  ['vrplayerinput_2ecs',['VRPlayerInput.cs',['../_v_r_player_input_8cs.html',1,'']]]
+  ['vrplayerinput_2ecs',['VRPlayerInput.cs',['../_v_r_player_input_8cs.html',1,'']]],
+  ['vrplayermove_2ecs',['VRPlayerMove.cs',['../_v_r_player_move_8cs.html',1,'']]],
+  ['vrrig_2ecs',['VRRig.cs',['../_v_r_rig_8cs.html',1,'']]]
 ];

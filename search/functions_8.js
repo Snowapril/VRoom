@@ -4,6 +4,7 @@ var searchData=
   ['hanguponclick',['HangupOnClick',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_platform_manager.html#ac431808177921c305e61ccba52c1ed8e',1,'Oculus::Platform::Samples::VrVoiceChat::PlatformManager']]],
   ['hascamera',['HasCamera',['../class_o_v_r_1_1_open_v_r_1_1_c_v_r_tracked_camera.html#a26fa9d5b08b1c308d444b2ed71d28ae4',1,'OVR::OpenVR::CVRTrackedCamera']]],
   ['hasconnectedclient',['HasConnectedClient',['../class_o_v_r_network_1_1_o_v_r_network_tcp_server.html#aaa50a5a04f787e310973301c95dc1280',1,'OVRNetwork::OVRNetworkTcpServer']]],
+  ['hasinsightpassthroughinitfailed',['HasInsightPassthroughInitFailed',['../class_o_v_r_manager.html#a7d4996a7a66afcc36c3395983fed0f3d',1,'OVRManager']]],
   ['hasqueuedobjects',['HasQueuedObjects',['../class_photon_1_1_pun_1_1_photon_stream_queue.html#a5ce6660209d3c8b2988d2e4444dfe36b',1,'Photon::Pun::PhotonStreamQueue']]],
   ['hide',['Hide',['../class_debug_u_i_builder.html#a97f28623276ddae53c17aa9763bb41ab',1,'DebugUIBuilder']]],
   ['hidecontrollers',['HideControllers',['../class_light_shaft_1_1_scripts_1_1_youtube_video_controller.html#a94dbc0214579e6c25603b154c6ded6a7',1,'LightShaft::Scripts::YoutubeVideoController']]],

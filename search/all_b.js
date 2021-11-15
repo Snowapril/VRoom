@@ -257,5 +257,8 @@ var searchData=
   ['kickoutplayer',['KickOutPlayer',['../class_photon_1_1_pun_1_1_demo_1_1_cockpit_1_1_player_details_controller.html#ae0c9e88c9d23a998d4e70ac063696fbb',1,'Photon::Pun::Demo::Cockpit::PlayerDetailsController']]],
   ['killserver',['KillServer',['../class_o_v_r_a_d_b_tool.html#a202324bccc0920dc40d845efede72754',1,'OVRADBTool']]],
   ['kk',['kk',['../class_o_v_r_lip_sync.html#acd523023796168346313aa9dac9fae26adc468c70fb574ebd07287b38d0d0676d',1,'OVRLipSync']]],
-  ['knoeventmaskset',['kNoEventMaskSet',['../class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a8549b3cd51f003083d7446223a4b58b4',1,'UnityEngine::EventSystems::OVRPhysicsRaycaster']]]
+  ['knobs',['knobs',['../class_hand_mesh_u_i.html#ac4a8134d822474011afb25844e1237c6',1,'HandMeshUI']]],
+  ['knoeventmaskset',['kNoEventMaskSet',['../class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a8549b3cd51f003083d7446223a4b58b4',1,'UnityEngine::EventSystems::OVRPhysicsRaycaster']]],
+  ['ktx',['Ktx',['../class_o_v_r_plugin_1_1_ktx.html',1,'OVRPlugin']]],
+  ['ktx2',['KTX2',['../_o_v_r_g_l_t_f_loader_8cs.html#a4ed4731b4915d18f4d404f4b314b7789a0f9ed9f97a99e38222542f204afa7a40',1,'OVRGLTFLoader.cs']]]
 ];

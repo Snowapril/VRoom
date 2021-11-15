@@ -2,6 +2,7 @@ var searchData=
 [
   ['editorcoroutine',['EditorCoroutine',['../class_assets_1_1_oculus_1_1_v_r_1_1_editor_1_1_o_v_r_platform_tool_1_1_editor_coroutine.html',1,'Assets::Oculus::VR::Editor::OVRPlatformTool']]],
   ['enableswitch',['EnableSwitch',['../class_enable_switch.html',1,'']]],
+  ['enableunpremultipliedalpha',['EnableUnpremultipliedAlpha',['../class_enable_unpremultiplied_alpha.html',1,'']]],
   ['enterroomparams',['EnterRoomParams',['../class_photon_1_1_realtime_1_1_enter_room_params.html',1,'Photon::Realtime']]],
   ['entitlementcheck',['EntitlementCheck',['../class_oculus_1_1_platform_1_1_samples_1_1_entitlement_check_1_1_entitlement_check.html',1,'Oculus::Platform::Samples::EntitlementCheck']]],
   ['enumerator',['Enumerator',['../struct_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_node_1_1_enumerator.html',1,'OVRSimpleJSON::JSONNode']]],

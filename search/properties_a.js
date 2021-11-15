@@ -4,6 +4,7 @@ var searchData=
   ['laserbeambehavior',['laserBeamBehavior',['../class_laser_pointer.html#affd2e6f7ccb9fb5f32ed6613f856c4cf',1,'LaserPointer']]],
   ['lastmsgid',['LastMsgId',['../class_photon_1_1_chat_1_1_chat_channel.html#a617442fc4c9bf46ddece9c242166cd29',1,'Photon::Chat::ChatChannel']]],
   ['latency',['latency',['../class_o_v_r_display.html#a675fc7e9fc40b7a0678b92a9e406d15f',1,'OVRDisplay']]],
+  ['layerid',['layerId',['../class_o_v_r_overlay.html#abb2713358718426e4ce7b85effe102a0',1,'OVROverlay']]],
   ['leaderboards',['Leaderboards',['../class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_platform_manager.html#a424068eb3fafc2b9caac966b990a2b68',1,'Oculus::Platform::Samples::VrHoops::PlatformManager']]],
   ['leftcontrolleranchor',['leftControllerAnchor',['../class_o_v_r_camera_rig.html#ad45582b6f1aad450051b6d1ac1409d43',1,'OVRCameraRig']]],
   ['lefteyeanchor',['leftEyeAnchor',['../class_o_v_r_camera_rig.html#a8c17a81713758515e062be2857c3a488',1,'OVRCameraRig']]],
@@ -24,5 +25,5 @@ var searchData=
   ['localplayer',['LocalPlayer',['../class_photon_1_1_realtime_1_1_load_balancing_client.html#a50fb7f5363ea8a9f4200f2793580e895',1,'Photon::Realtime::LoadBalancingClient']]],
   ['locomotioncontroller',['LocomotionController',['../class_locomotion_teleport.html#a4ddb688fa6bc04d3d65ec2be6fd3fa3c',1,'LocomotionTeleport']]],
   ['locomotionteleport',['LocomotionTeleport',['../class_teleport_support.html#a1a21cf52c72d1b343da8e06a254d360b',1,'TeleportSupport']]],
-  ['loop',['Loop',['../class_photon_1_1_pun_1_1_demo_1_1_slot_racer_1_1_utils_1_1_bezier_spline.html#a7293fb1a280fb743d588fbe3242463cd',1,'Photon.Pun.Demo.SlotRacer.Utils.BezierSpline.Loop()'],['../class_o_v_r_1_1_sound_emitter.html#aca5c16ee0c6b02bd95c75a4d651a9f88',1,'OVR.SoundEmitter.loop()']]]
+  ['loop',['loop',['../class_o_v_r_1_1_sound_emitter.html#aca5c16ee0c6b02bd95c75a4d651a9f88',1,'OVR.SoundEmitter.loop()'],['../class_photon_1_1_pun_1_1_demo_1_1_slot_racer_1_1_utils_1_1_bezier_spline.html#a7293fb1a280fb743d588fbe3242463cd',1,'Photon.Pun.Demo.SlotRacer.Utils.BezierSpline.Loop()']]]
 ];

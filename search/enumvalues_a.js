@@ -8,6 +8,7 @@ var searchData=
   ['joininglobby',['JoiningLobby',['../group__public_api.html#gga5500bb7cf5b4d5493f545a2fcb02ae16a9ed567110f6be2c6fee8794ceea48605',1,'Photon::Realtime']]],
   ['joinorrejoin',['JoinOrRejoin',['../namespace_photon_1_1_realtime.html#ae97c496429f751b88142ce09c2e0e96faa63ce0e3e810c781a410d3addc56db7f',1,'Photon::Realtime']]],
   ['joystick',['Joystick',['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#a25b3640f30308c5d9777e133405d6f3ea1162b85b7b993e2edf7da29dd8abf7e2',1,'Joystick():&#160;OvrAvatarSDKCAPI.cs'],['../_ovr_avatar_s_d_k_c_a_p_i_8cs.html#a5c5269b889ac645883a05205e02318d1a1162b85b7b993e2edf7da29dd8abf7e2',1,'Joystick():&#160;OvrAvatarSDKCAPI.cs']]],
-  ['jpeg',['JPEG',['../class_o_v_r_screenshot_wizard.html#a96132e53a9d91ea52f70963d99b98cbba907e06a16862d82ca6907a28a68d0ad6',1,'OVRScreenshotWizard']]],
+  ['jpeg',['JPEG',['../class_o_v_r_screenshot_wizard.html#a96132e53a9d91ea52f70963d99b98cbba907e06a16862d82ca6907a28a68d0ad6',1,'OVRScreenshotWizard.JPEG()'],['../_o_v_r_g_l_t_f_loader_8cs.html#a4ed4731b4915d18f4d404f4b314b7789a907e06a16862d82ca6907a28a68d0ad6',1,'JPEG():&#160;OVRGLTFLoader.cs']]],
+  ['json',['JSON',['../_o_v_r_g_l_t_f_loader_8cs.html#a25aa2b3d49d01ea6bf646e175cd382d0a0ecd11c1d7a287401d148a23bbd7a2f8',1,'OVRGLTFLoader.cs']]],
   ['jsonparsefailed',['JsonParseFailed',['../namespace_o_v_r_1_1_open_v_r.html#a0898ed02879d0ab7ac0178bc59c7dc31ac9f577ac2188250a8a440c25109b4129',1,'OVR::OpenVR']]]
 ];
