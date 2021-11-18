@@ -20,9 +20,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Test Scenes/Network/Photon Tutorial/NetworkRoom4.unity
     guid: 4763da57c971aa840a0319d906c69ff1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Test Scenes/Network/Test2/VR Network.unity
     guid: 4e1d6b6136834b24785e6f25cbd3d2b2
+  - enabled: 1
+    path: Assets/Scenes/Test Scenes/SampleScene 1.unity
+    guid: 8dfc5b4d52b0e354b8c7e944a83a72e1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 667ff0743a9961348879607300482ec2,
       type: 2}
